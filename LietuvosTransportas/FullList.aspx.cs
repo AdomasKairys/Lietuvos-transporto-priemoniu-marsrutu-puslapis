@@ -7,9 +7,14 @@ using System.Web.UI.WebControls;
 
 namespace LietuvosTransportas
 {
-    public partial class Page1 : System.Web.UI.Page
+    public partial class Page2 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btnShowLongDistance_Click(object sender, EventArgs e)
         {
 
         }

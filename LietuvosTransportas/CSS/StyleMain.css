@@ -1,0 +1,14 @@
+﻿.main {
+    width: 1400px; 
+    margin: 0 auto;
+    text-align:center;
+    padding: 250px;
+}
+.main-button {
+    margin-bottom: 50px;
+}
+.button {
+    height: 90px;
+    width: 180px;
+    border-radius: 25px;
+}

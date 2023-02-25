@@ -1,0 +1,19 @@
+﻿.main {
+    width: 1400px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+}
+
+.button {
+    height: 45px;
+    width: 90px;
+    border-radius: 10px;
+}
+
+.search {
+    width:200px;
+    margin-bottom:10px;
+    border-radius: 5px;
+}
+
