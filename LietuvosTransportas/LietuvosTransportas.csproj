@@ -70,23 +70,23 @@
   <ItemGroup>
     <Content Include="CSS\StyleFullList.css" />
     <Content Include="CSS\StyleMain.css" />
-    <Content Include="MainPage.aspx" />
-    <Content Include="FullList.aspx" />
+    <Content Include="MainPage\MainPage.aspx" />
+    <Content Include="FullList\FullList.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainPage.aspx.cs">
+    <Compile Include="MainPage\MainPage.aspx.cs">
       <DependentUpon>MainPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="MainPage.aspx.designer.cs">
+    <Compile Include="MainPage\MainPage.aspx.designer.cs">
       <DependentUpon>MainPage.aspx</DependentUpon>
     </Compile>
-    <Compile Include="FullList.aspx.cs">
+    <Compile Include="FullList\FullList.aspx.cs">
       <DependentUpon>FullList.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="FullList.aspx.designer.cs">
+    <Compile Include="FullList\FullList.aspx.designer.cs">
       <DependentUpon>FullList.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -100,9 +100,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Code\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
