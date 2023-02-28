@@ -11,7 +11,7 @@ namespace LietuvosTransportas
 {
 
 
-    public partial class Page2
+    public partial class Page1
     {
 
         /// <summary>
@@ -24,21 +24,39 @@ namespace LietuvosTransportas
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// btnShowLongDistance control.
+        /// BtnShowFull control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnShowLongDistance;
+        protected global::System.Web.UI.WebControls.Button BtnShowFull;
 
         /// <summary>
-        /// country control.
+        /// BtnSearch1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox country;
+        protected global::System.Web.UI.WebControls.Button BtnSearch1;
+
+        /// <summary>
+        /// BtnSearch2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button BtnSearch2;
+
+        /// <summary>
+        /// BtnMap control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button BtnMap;
     }
 }

@@ -1,0 +1,26 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FullList.aspx.cs" Inherits="LietuvosTransportas.Page2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    
+    <link rel="stylesheet" type="text/css" href="../CSS/StyleFullList.css" runat="server" />
+    <script src="../App_Data/jquery.min.js"></script>
+    <link href="../App_Data/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../App_Data/jquery-ui.min.js"></script>
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <div class="main">
+            <asp:Button CssClass="button" ID="BtnShowLongDistance" runat="server" Text="Tarmiestiniai" OnClick="BtnShowLongDistance_Click" style="margin-left:1310px"/>
+            <br />
+            <ajaxToolkit:ComboBox CssClass="search" ID="SearchBox" runat="server" AutoCompleteMode="SuggestAppend" MaxLength="0" style="display: inline;" DataTextField="name" OnTextChanged="SearchBox_TextChanged" DropDownStyle="DropDownList"></ajaxToolkit:ComboBox>
+            <br />
+            <iframe id="PageEmbed" name="iframe" src="https://www.stops.lt/" style="position: absolute;width:0;height:0;border:0;" scrolling="auto" runat="server"></iframe>
+        </div>
+    </form>
+</body>
+</html>

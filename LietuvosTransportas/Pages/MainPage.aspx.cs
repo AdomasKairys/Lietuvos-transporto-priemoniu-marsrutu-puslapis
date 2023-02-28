@@ -9,22 +9,22 @@ namespace LietuvosTransportas
 
         }
 
-        protected void btnShowFull_Click(object sender, EventArgs e)
+        protected void BtnShowFull_Click(object sender, EventArgs e)
         {
 
         }
 
-        protected void btnSearch1_Click(object sender, EventArgs e)
+        protected void BtnSearch1_Click(object sender, EventArgs e)
         {
 
         }
 
-        protected void btnSearch2_Click(object sender, EventArgs e)
+        protected void BtnSearch2_Click(object sender, EventArgs e)
         {
 
         }
 
-        protected void btnMap_Click(object sender, EventArgs e)
+        protected void BtnMap_Click(object sender, EventArgs e)
         {
 
         }

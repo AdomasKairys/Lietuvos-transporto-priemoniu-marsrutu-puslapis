@@ -11,7 +11,7 @@ namespace LietuvosTransportas
 {
 
 
-    public partial class Page1
+    public partial class Page2
     {
 
         /// <summary>
@@ -24,39 +24,39 @@ namespace LietuvosTransportas
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// btnShowFull control.
+        /// ScriptManager1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnShowFull;
+        protected global::System.Web.UI.ScriptManager ScriptManager1;
 
         /// <summary>
-        /// btnSearch1 control.
+        /// BtnShowLongDistance control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSearch1;
+        protected global::System.Web.UI.WebControls.Button BtnShowLongDistance;
 
         /// <summary>
-        /// btnSearch2 control.
+        /// SearchBox control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSearch2;
+        protected global::AjaxControlToolkit.ComboBox SearchBox;
 
         /// <summary>
-        /// btnMap control.
+        /// PageEmbed control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnMap;
+        protected global::System.Web.UI.HtmlControls.HtmlIframe PageEmbed;
     }
 }
