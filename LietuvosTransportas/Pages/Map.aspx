@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FullList.aspx.cs" Inherits="LietuvosTransportas.Page2" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Map.aspx.cs" Inherits="LietuvosTransportas.Pages.Map" %>
 
 <!DOCTYPE html>
 
@@ -15,7 +15,6 @@
         <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
         <div class="main">
             <asp:Button CssClass="button" UseSubmitBehavior = "false" ID="BtnReturn" runat="server" Text="Pradinis puslapis" OnClick="BtnReturn_Click" style="float:right;"/>
-            <asp:Button CssClass="button" UseSubmitBehavior = "false" ID="BtnShowLongDistance" runat="server" Text="Tarmiestiniai" OnClick="BtnShowLongDistance_Click" style="float:right;"/>
             <br />
             <ajaxToolkit:ComboBox CssClass="search" ID="SearchBox" runat="server" UseSubmitBehavior="false" AutoCompleteMode="SuggestAppend" MaxLength="0" style="display: inline;" DataTextField="name" OnTextChanged="SearchBox_TextChanged" DropDownStyle="DropDownList" ></ajaxToolkit:ComboBox>
             <br />

@@ -5,7 +5,8 @@ using System.Data;
 using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
-using System.Web.Hosting;
+using System.Web;
+using System.Web.Configuration;
 using System.Web.Services;
 using System.Web.UI.WebControls;
 using System.Xml.Linq;
@@ -36,10 +37,49 @@ namespace LietuvosTransportas
 
         protected void SearchBox_TextChanged(object sender, EventArgs e)
         {
-            PageEmbed.Style["width"] = "1000px";
-            PageEmbed.Style["height"] = "500px";
+            PageEmbed.Style["width"] = "1400px";
+            PageEmbed.Style["height"] = "800px";
             PageEmbed.Style["border "] = "1";
-            PageEmbed.Src = "https://www.stops.lt/" + SearchBox.Text;
+            PageEmbed.Src = "https://www.stops.lt/" + SearchBox.Text.ToLower();
+            var resultRoutes = string.Empty;
+            var resultStops = string.Empty;
+            using (var webClient = new System.Net.WebClient())
+            {
+                resultRoutes = webClient.DownloadString($"{PageEmbed.Src}/{SearchBox.Text.ToLower()}/routes.txt");
+                resultStops = webClient.DownloadString($"{PageEmbed.Src}/{SearchBox.Text.ToLower()}/stops.txt");
+            }
+            using (StreamWriter writer = new StreamWriter(Server.MapPath("/App_Data/routes.txt")))
+            {
+                writer.Write(resultRoutes);
+            }
+            using (StreamWriter writer = new StreamWriter(Server.MapPath("/App_Data/stops.txt")))
+            {
+                writer.Write(resultStops);
+            }
+            FixStopsFile();
+        }
+
+        protected void FixStopsFile()
+        {
+            string ffixed = string.Empty;
+            using (StreamReader reader = new StreamReader(Server.MapPath("/App_Data/stops.txt")))
+            {
+                while (!reader.EndOfStream)
+                {
+                    string[] collums = reader.ReadLine().Split(';');
+                    ffixed += string.Join(";", new string[] { collums[0] , collums[4] }) + '\n';
+                }
+            }
+            
+            using (StreamWriter writer = new StreamWriter(Server.MapPath("/App_Data/stops.txt"), false))
+            {
+                writer.Write(ffixed);
+            }
+        }
+
+        protected void BtnReturn_Click(object sender, EventArgs e)
+        {
+           Response.Redirect("~/MainPage.aspx");
         }
     }
 }

@@ -11,7 +11,7 @@ namespace LietuvosTransportas
 
         protected void BtnShowFull_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("~/Pages/FullList.aspx");
         }
 
         protected void BtnSearch1_Click(object sender, EventArgs e)
@@ -26,7 +26,7 @@ namespace LietuvosTransportas
 
         protected void BtnMap_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("~/Pages/Map.aspx");
         }
     }
 }

@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LietuvosTransportas
+namespace LietuvosTransportas.Pages
 {
 
 
-    public partial class Page2
+    public partial class Map
     {
 
         /// <summary>
@@ -40,15 +40,6 @@ namespace LietuvosTransportas
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button BtnReturn;
-
-        /// <summary>
-        /// BtnShowLongDistance control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnShowLongDistance;
 
         /// <summary>
         /// SearchBox control.

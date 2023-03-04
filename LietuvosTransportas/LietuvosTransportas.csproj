@@ -73,18 +73,21 @@
     <Content Include="App_Data\jquery-ui.css" />
     <Content Include="App_Data\jquery-ui.min.js" />
     <Content Include="App_Data\jquery.min.js" />
-    <Content Include="CSS\StyleFullList.css" />
+    <Content Include="CSS\StylePages.css" />
     <Content Include="CSS\StyleMain.css" />
-    <Content Include="Pages\MainPage.aspx" />
+    <Content Include="MainPage.aspx" />
     <Content Include="Pages\FullList.aspx" />
+    <Content Include="Pages\Map.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pages\MainPage.aspx.cs">
+    <Compile Include="Code\Routes.cs" />
+    <Compile Include="Code\Stops.cs" />
+    <Compile Include="MainPage.aspx.cs">
       <DependentUpon>MainPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Pages\MainPage.aspx.designer.cs">
+    <Compile Include="MainPage.aspx.designer.cs">
       <DependentUpon>MainPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\FullList.aspx.cs">
@@ -93,6 +96,13 @@
     </Compile>
     <Compile Include="Pages\FullList.aspx.designer.cs">
       <DependentUpon>FullList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Map.aspx.cs">
+      <DependentUpon>Map.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Map.aspx.designer.cs">
+      <DependentUpon>Map.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -105,9 +115,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Code\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
