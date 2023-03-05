@@ -35,7 +35,11 @@ namespace LietuvosTransportas.Pages
             PageEmbed.Style["width"] = "1400px";
             PageEmbed.Style["height"] = "800px";
             PageEmbed.Style["border "] = "1";
-            PageEmbed.Src = "https://www.stops.lt/" + $"{SearchBox.Text}/#{SearchBox.Text}/map,max" ;
+            string accentedStr = SearchBox.Text;
+            byte[] tempBytes = System.Text.Encoding.GetEncoding("ISO-8859-8").GetBytes(accentedStr);
+            string asciiStr = System.Text.Encoding.UTF8.GetString(tempBytes);
+            asciiStr = asciiStr.ToLower();
+            PageEmbed.Src = "https://www.stops.lt/" + $"{asciiStr}/#{asciiStr}/map,max" ;
         }
 
         protected void BtnReturn_Click(object sender, EventArgs e)

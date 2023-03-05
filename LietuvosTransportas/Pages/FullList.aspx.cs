@@ -37,16 +37,21 @@ namespace LietuvosTransportas
 
         protected void SearchBox_TextChanged(object sender, EventArgs e)
         {
+            string accentedStr = SearchBox.Text;
+            byte[] tempBytes = System.Text.Encoding.GetEncoding("ISO-8859-8").GetBytes(accentedStr);
+            string asciiStra = System.Text.Encoding.UTF8.GetString(tempBytes);
+            asciiStra = asciiStra.ToLower();
+
             PageEmbed.Style["width"] = "1400px";
             PageEmbed.Style["height"] = "800px";
             PageEmbed.Style["border "] = "1";
-            PageEmbed.Src = "https://www.stops.lt/" + SearchBox.Text.ToLower();
+            PageEmbed.Src = "https://www.stops.lt/" + asciiStra;
             var resultRoutes = string.Empty;
             var resultStops = string.Empty;
             using (var webClient = new System.Net.WebClient())
             {
-                resultRoutes = webClient.DownloadString($"{PageEmbed.Src}/{SearchBox.Text.ToLower()}/routes.txt");
-                resultStops = webClient.DownloadString($"{PageEmbed.Src}/{SearchBox.Text.ToLower()}/stops.txt");
+                resultRoutes = webClient.DownloadString($"{PageEmbed.Src}/{asciiStra}/routes.txt");
+                resultStops = webClient.DownloadString($"{PageEmbed.Src}/{asciiStra}/stops.txt");
             }
             using (StreamWriter writer = new StreamWriter(Server.MapPath("/App_Data/routes.txt")))
             {
