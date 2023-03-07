@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FullList.aspx.cs" Inherits="LietuvosTransportas.Page2" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FullList.aspx.cs" Inherits="LietuvosTransportas.Page2"%>
 
 <!DOCTYPE html>
 

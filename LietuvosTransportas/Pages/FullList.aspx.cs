@@ -1,15 +1,12 @@
-﻿using System;
+﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data;
-using System.Data.SqlClient;
+using System.Diagnostics;
 using System.IO;
-using System.Linq;
-using System.Web;
-using System.Web.Configuration;
-using System.Web.Services;
-using System.Web.UI.WebControls;
-using System.Xml.Linq;
+using System.Text.RegularExpressions;
+using System.Threading;
 
 namespace LietuvosTransportas
 {
@@ -27,6 +24,10 @@ namespace LietuvosTransportas
                 {
                     SearchBox.Items.Add(row[0].ToString());
                 }
+                Code.WebScraper.Scraper(Server.MapPath("/App_Data"), Server.MapPath("/App_Data/Route_Times/times.txt"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "divScheduleContentInner");
+                Code.WebScraper.Scraper(Server.MapPath("/App_Data"), Server.MapPath("/App_Data/Route_Times/route_name.txt"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "spanDir1");
+
+                
             }
         }
 
@@ -39,52 +40,19 @@ namespace LietuvosTransportas
         {
             string accentedStr = SearchBox.Text;
             byte[] tempBytes = System.Text.Encoding.GetEncoding("ISO-8859-8").GetBytes(accentedStr);
-            string asciiStra = System.Text.Encoding.UTF8.GetString(tempBytes);
-            asciiStra = asciiStra.ToLower();
+            string asciiStr = System.Text.Encoding.UTF8.GetString(tempBytes);
+            asciiStr = asciiStr.ToLower();
 
             PageEmbed.Style["width"] = "1400px";
             PageEmbed.Style["height"] = "800px";
             PageEmbed.Style["border "] = "1";
-            PageEmbed.Src = "https://www.stops.lt/" + asciiStra;
-            var resultRoutes = string.Empty;
-            var resultStops = string.Empty;
-            using (var webClient = new System.Net.WebClient())
-            {
-                resultRoutes = webClient.DownloadString($"{PageEmbed.Src}/{asciiStra}/routes.txt");
-                resultStops = webClient.DownloadString($"{PageEmbed.Src}/{asciiStra}/stops.txt");
-            }
-            using (StreamWriter writer = new StreamWriter(Server.MapPath("/App_Data/routes.txt")))
-            {
-                writer.Write(resultRoutes);
-            }
-            using (StreamWriter writer = new StreamWriter(Server.MapPath("/App_Data/stops.txt")))
-            {
-                writer.Write(resultStops);
-            }
-            FixStopsFile();
+            PageEmbed.Src = "https://www.stops.lt/" + asciiStr;
+            Code.WebScraper.ScrapeTxt($"{PageEmbed.Src}/{asciiStr}/stops.txt", Server.MapPath("/App_Data/stops.txt"));
+            Code.WebScraper.ScrapeTxt($"{PageEmbed.Src}/{asciiStr}/routes.txt", Server.MapPath("/App_Data/routes.txt"));
         }
-
-        protected void FixStopsFile()
-        {
-            string ffixed = string.Empty;
-            using (StreamReader reader = new StreamReader(Server.MapPath("/App_Data/stops.txt")))
-            {
-                while (!reader.EndOfStream)
-                {
-                    string[] collums = reader.ReadLine().Split(';');
-                    ffixed += string.Join(";", new string[] { collums[0] , collums[4] }) + '\n';
-                }
-            }
-            
-            using (StreamWriter writer = new StreamWriter(Server.MapPath("/App_Data/stops.txt"), false))
-            {
-                writer.Write(ffixed);
-            }
-        }
-
         protected void BtnReturn_Click(object sender, EventArgs e)
         {
-           Response.Redirect("~/MainPage.aspx");
+            Response.Redirect("~/MainPage.aspx");
         }
     }
 }
