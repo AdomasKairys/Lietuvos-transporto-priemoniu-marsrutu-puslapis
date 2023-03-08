@@ -24,8 +24,8 @@ namespace LietuvosTransportas
                 {
                     SearchBox.Items.Add(row[0].ToString());
                 }
-                Code.WebScraper.Scraper(Server.MapPath("/App_Data"), Server.MapPath("/App_Data/Route_Times/times.txt"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "divScheduleContentInner");
-                Code.WebScraper.Scraper(Server.MapPath("/App_Data"), Server.MapPath("/App_Data/Route_Times/route_name.txt"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "spanDir1");
+                //Code.WebScraper.Scraper(Server.MapPath("/App_Data"), Server.MapPath("/App_Data/Route_Times/times.txt"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "divScheduleContentInner");
+                Code.WebScraper.Scraper(Server.MapPath("/App_Data"), Server.MapPath("/App_Data/Route_Times/route_name.txt"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "dlDirStops2");
 
                 
             }

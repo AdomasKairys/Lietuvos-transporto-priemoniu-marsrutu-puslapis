@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using System.Linq;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -19,32 +20,19 @@ namespace LietuvosTransportas.Code
             chromeOptions.AddArguments("--disable-gpu");
 
             driver = new ChromeDriver(driverPath, chromeOptions);
-
             driver.Navigate().GoToUrl(url);
-            var collections = FindElements(By.Id(idToScrape));
+            var collection = driver.FindElement(By.Id(idToScrape));
+            var collections = collection.FindElements(By.XPath("*"));
 
-            foreach (var collection in collections)
-            {
-                using (StreamWriter writer = new StreamWriter(outputPath, false))
+            using (StreamWriter writer = new StreamWriter(outputPath, false))
+            { 
+                foreach (var coll in collections)
                 {
-                    writer.Write(collection.Text);
+                    var hover = coll.FindElement(By.ClassName("hover"));
+                    writer.WriteLine(hover.GetAttribute("href") + ';' + hover.GetAttribute("innerHTML"));
                 }
             }
             driver.Quit();
-        }
-        static IReadOnlyCollection<IWebElement> FindElements(By by)
-        {
-            Stopwatch w = Stopwatch.StartNew();
-            while (w.ElapsedMilliseconds < 10 * 1000)
-            {
-                var elements = driver.FindElements(by);
-                if (elements.Count > 0)
-                    return elements;
-
-                Thread.Sleep(10);
-            }
-            return null;
-
         }
         public static void ScrapeTxt(string url, string ouptputPath)
         {
