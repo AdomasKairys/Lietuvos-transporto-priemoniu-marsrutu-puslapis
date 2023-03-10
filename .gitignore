@@ -358,3 +358,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /LietuvosTransportas/App_Data/Routes_Database_log.ldf
+/LietuvosTransportas/App_Data/Route_Database_log.ldf
