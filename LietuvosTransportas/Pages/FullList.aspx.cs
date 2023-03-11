@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium;
+﻿using LietuvosTransportas.Code;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
 using System.Collections.Generic;
@@ -25,9 +26,32 @@ namespace LietuvosTransportas
                     SearchBox.Items.Add(row[0].ToString());
                 }
                 //Code.WebScraper.Scraper(Server.MapPath("/App_Data"), Server.MapPath("/App_Data/Route_Times/times.txt"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "divScheduleContentInner");
-                Code.WebScraper.Scraper(Server.MapPath("/App_Data"), Server.MapPath("/App_Data/Route_Times/route_name.txt"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "dlDirStops2");
+                //Code.WebScraper.Scraper(Server.MapPath("/App_Data"), "https://stops.lt/kautra/#bus/106/a-b/2486-1", "//div[@id='divScheduleStop']/strong");
+                //using (StreamWriter writer = new StreamWriter(Server.MapPath("/App_Data/Route_Times/route_name.txt"), false))
+                //using (StreamReader reader = new StreamReader(Server.MapPath("/App_Data/routes.txt")))
+                //{
+                //    reader.ReadLine();
+                //    reader.ReadLine();
+                //    string line;
+                //    string transport = "";
+                //    while ((line = reader.ReadLine()) != null)
+                //    {
+                //        string[] elements = line.Split(';');
+                //        if (!string.IsNullOrEmpty(elements[1]))
+                //            transport = elements[1];
+                //        string route = elements[0];
+                //        for (int i = 3; i < elements.Length - 2; i += 3)
+                //        {
+                //            string[] stops = elements[i + 2].Split(',');
+                //            foreach (string stop in stops)
+                //            {
+                //                string stopname = WebScraper.Scraper(Server.MapPath("/App_Data"), $"https://stops.lt/kaunas/#{transport}/{route}/{elements[i]}/{stop.Trim()}", "#divScheduleStop>strong");
+                //                writer.WriteLine(route + ';' + elements[i] + ';' + stop + ';' + stopname);
+                //            }
+                //        }
+                //    }
+                //}
 
-                
             }
         }
 
@@ -47,8 +71,7 @@ namespace LietuvosTransportas
             PageEmbed.Style["height"] = "800px";
             PageEmbed.Style["border "] = "1";
             PageEmbed.Src = "https://www.stops.lt/" + asciiStr;
-            Code.WebScraper.ScrapeTxt($"{PageEmbed.Src}/{asciiStr}/stops.txt", Server.MapPath("/App_Data/stops.txt"));
-            Code.WebScraper.ScrapeTxt($"{PageEmbed.Src}/{asciiStr}/routes.txt", Server.MapPath("/App_Data/routes.txt"));
+            Code.WebScraper.ScrapeRoutes($"{PageEmbed.Src}/{asciiStr}/routes.txt", Server.MapPath("/App_Data/routes.txt"));
         }
         protected void BtnReturn_Click(object sender, EventArgs e)
         {
