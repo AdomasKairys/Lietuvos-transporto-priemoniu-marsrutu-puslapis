@@ -1,15 +1,145 @@
-Kaunas
-Pėsčiųjų tiltas
-Karaliaus Mindaugo pr.
-Aleksoto poliklininka
-Europos pr.
-Lazdijų g.
-2-asis fortas
-Sodai
-K.Dulksnio g.
-Ramybės g.
-Jonučiai
-Vienybės g.
-Tulpių g.
-Bažnyčia
-Garliava
+3;a-b;50; Kauno ligoninė
+3;a-b;46; Naujakurių g.
+3;a-b;42; Apuolės g.
+3;a-b;36; Žiemgalių g.
+3;a-b;34; Baltų pr.
+3;a-b;742; Žemaičių pl.
+3;a-b;3; Mosėdžio g.
+3;a-b;762; 9-ojo Forto g.
+3;a-b;10; Kuršių g.
+3;a-b;14; Šarkuvos g.
+3;a-b;18; Jotvingių g.
+3;a-b;25; A. Strazdo g.
+3;a-b;27; Kuršėnų g.
+3;a-b;67; Varnių tiltas
+3;a-b;551; Jonavos g.
+3;a-b;149; Nuokalnės g.
+3;a-b;624; V. Lašo g.
+3;a-b;522; Klinikos
+3;a-b;520; Akių klinika
+3;a-b;518; Žeimenos g.
+3;a-b;516; Topolis
+3;a-b;513; Ukmergės g.
+3;a-b;511; Ašigalio g.
+3;a-b;506; S. Žukausko g.
+3;a-b;508; Eiguliai
+3;a-b;510; Čečėnijos aikštė
+3;a-b;501; V. Landsbergio-Žemkalnio g.
+3;a-b;423; Pakraščio g.
+3;a-b;446; Turgavietė
+3;a-b;447; Rėda
+3;a-b;456; Draugystės parkas
+3;a-b;458; Birželio 23-iosios g.
+3;a-b;479; Taikos pr.
+3;a-b;481; Studentų g.
+3;a-b;483; Zoologijos sodas
+3;a-b;488; Gėlių rato g.
+3;a-b;493; Sporto g.
+3;a-b;576; Kęstučio g.
+3;a-b;579; Griunvaldo g.
+3;a-b;581; Autobusų stotis
+3;a-b;582; Geležinkelio stotis
+3;a-b;380; Kaunakiemio g.
+3;a-b;640; Geležinkelio tiltas
+3;a-b;383; Geležinkelio g.
+3;a-b;386; Šančių poliklinika
+3;a-b;394; Švč. Jėzaus Širdies bažnyčia
+3;a-b;396; Gudų g.
+3;a-b;398; Šančių kapinės
+3;a-b;201; Tilto g.
+3;a-b;203; Mažoji g.
+3;a-b;207; A. Smetonos al.
+3;a-b;210; Gailutės g.
+3;a-b;214; J. Staugaičio g.
+3;a-b;218; Kurtinių g.
+3;a-b;695; Volungių g.
+3;a-b;220; Onkologijos ligoninė
+3;a-b_67;50; Kauno ligoninė
+3;a-b_67;46; Naujakurių g.
+3;a-b_67;42; Apuolės g.
+3;a-b_67;36; Žiemgalių g.
+3;a-b_67;34; Baltų pr.
+3;a-b_67;742; Žemaičių pl.
+3;a-b_67;3; Mosėdžio g.
+3;a-b_67;762; 9-ojo Forto g.
+3;a-b_67;10; Kuršių g.
+3;a-b_67;14; Šarkuvos g.
+3;a-b_67;18; Jotvingių g.
+3;a-b_67;25; A. Strazdo g.
+3;a-b_67;27; Kuršėnų g.
+3;a-b_67;67; Varnių tiltas
+3;a-b_67;551; Jonavos g.
+3;a-b_67;149; Nuokalnės g.
+3;a-b_67;624; V. Lašo g.
+3;a-b_67;688; Klinikos
+3;a-b_67;520; Akių klinika
+3;a-b_67;518; Žeimenos g.
+3;a-b_67;516; Topolis
+3;a-b_67;513; Ukmergės g.
+3;a-b_67;511; Ašigalio g.
+3;a-b_67;506; S. Žukausko g.
+3;a-b_67;508; Eiguliai
+3;a-b_67;510; Čečėnijos aikštė
+3;a-b_67;501; V. Landsbergio-Žemkalnio g.
+3;a-b_67;423; Pakraščio g.
+3;a-b_67;446; Turgavietė
+3;a-b_67;447; Rėda
+3;a-b_67;456; Draugystės parkas
+3;a-b_67;458; Birželio 23-iosios g.
+3;a-b_67;479; Taikos pr.
+3;a-b_67;481; Studentų g.
+3;a-b_67;483; Zoologijos sodas
+3;a-b_67;488; Gėlių rato g.
+3;a-b_67;493; Sporto g.
+3;a-b_67;576; Kęstučio g.
+3;a-b_67;579; Griunvaldo g.
+3;a-b_67;581; Autobusų stotis
+3;a-b_67;582; Geležinkelio stotis
+3;a-b_67;380; Kaunakiemio g.
+3;a-b_67;640; Geležinkelio tiltas
+3;a-b_67;383; Geležinkelio g.
+3;a-b_67;386; Šančių poliklinika
+3;a-b_67;394; Švč. Jėzaus Širdies bažnyčia
+3;a-b_67;396; Gudų g.
+3;a-b_67;398; Šančių kapinės
+3;a-b_67;201; Tilto g.
+3;a-b_67;203; Mažoji g.
+3;a-b_67;207; A. Smetonos al.
+3;a-b_67;210; Gailutės g.
+3;a-b_67;214; J. Staugaičio g.
+3;a-b_67;218; Kurtinių g.
+3;a-b_67;695; Volungių g.
+3;a-b_67;220; Onkologijos ligoninė
+3;b-a;220; Onkologijos ligoninė
+3;b-a;694; Volungių g.
+3;b-a;219; Kurtinių g.
+3;b-a;813; Birutės g.
+3;b-a;213; J. Staugaičio g.
+3;b-a;209; Gailutės g.
+3;b-a;208; A. Smetonos al.
+3;b-a;204; Mažoji g.
+3;b-a;202; Tilto g.
+3;b-a;397; Šančių kapinės
+3;b-a;395; Gudų g.
+3;b-a;393; Švč. Jėzaus Širdies bažnyčia
+3;b-a;385; Šančių poliklinika
+3;b-a;382; Geležinkelio g.
+3;b-a;381; Geležinkelio tiltas
+3;b-a;376; Geležinkelio stotis
+3;b-a;580; Autobusų stotis
+3;b-a;761; Griunvaldo g.
+3;b-a;578; Kęstučio g.
+3;b-a;492; Sporto g.
+3;b-a;489; Gėlių rato g.
+3;b-a;487; Minties rato g.
+3;b-a;482; Zoologijos sodas
+3;b-a;480; Studentų g.
+3;b-a;478; Taikos pr.
+3;b-a;457; Birželio 23-iosios g.
+3;b-a;455; Draugystės parkas
+3;b-a;445; Turgavietė
+3;b-a;422; Pakraščio g.
+3;b-a;502; V. Landsbergio-Žemkalnio g.
+3;b-a;509; Čečėnijos aikštė
+3;b-a;507; Eiguliai
+3;b-a;766; S. Žuk

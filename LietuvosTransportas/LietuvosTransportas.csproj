@@ -170,6 +170,9 @@
     <Content Include="App_Data\jquery-ui.css" />
     <Content Include="App_Data\jquery-ui.min.js" />
     <Content Include="App_Data\jquery.min.js" />
+    <Content Include="App_Data\routes.txt" />
+    <Content Include="App_Data\Route_Times\route_name.txt" />
+    <Content Include="App_Data\Route_Times\times.txt" />
     <Content Include="CSS\StylePages.css" />
     <Content Include="CSS\StyleMain.css" />
     <Content Include="MainPage.aspx" />
@@ -224,9 +227,7 @@
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\Route_Times\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

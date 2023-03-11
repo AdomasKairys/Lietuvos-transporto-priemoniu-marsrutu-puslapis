@@ -6,14 +6,17 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Text.RegularExpressions;
+using System.Data.SqlClient;
 using System.Threading;
+using OpenQA.Selenium.Support.UI;
+using System.Net.Http;
 
 namespace LietuvosTransportas.Code
 {
     public class WebScraper
     {
         private static IWebDriver driver;
-        public static void Scraper(string driverPath, string outputPath, string url, string idToScrape)
+        public static string Scraper(string driverPath, string url, string cssSelector)
         {
             ChromeOptions chromeOptions = new ChromeOptions();
             chromeOptions.AddArguments("--headless");
@@ -21,25 +24,33 @@ namespace LietuvosTransportas.Code
 
             driver = new ChromeDriver(driverPath, chromeOptions);
             driver.Navigate().GoToUrl(url);
-            var collection = driver.FindElement(By.Id(idToScrape));
-            var collections = collection.FindElements(By.XPath("*"));
-
-            using (StreamWriter writer = new StreamWriter(outputPath, false))
-            { 
-                foreach (var coll in collections)
-                {
-                    var hover = coll.FindElement(By.ClassName("hover"));
-                    writer.WriteLine(hover.GetAttribute("href") + ';' + hover.GetAttribute("innerHTML"));
-                }
+            try
+            {
+                var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(1));
+                var collection = wait.Until(drv => drv.FindElement(By.CssSelector(cssSelector)));
+                var retunvalue = collection.GetAttribute("innerHTML");
+                driver.Quit();
+                return retunvalue;
             }
-            driver.Quit();
+            catch (Exception ex)
+            {
+                driver.Quit();
+                throw new Exception(url + " " + ex.Message);
+            }
+            
+
+            
         }
-        public static void ScrapeTxt(string url, string ouptputPath)
+        public static void ScrapeRoutes(string url, string ouptputPath)
         {
             var resultStops = string.Empty;
-            using (var webClient = new System.Net.WebClient())
+            var client = new HttpClient();
+            using (HttpResponseMessage response = client.GetAsync(url).Result)
             {
-                resultStops = webClient.DownloadString(url);
+                using (HttpContent content = response.Content)
+                {
+                    resultStops = content.ReadAsStringAsync().Result;
+                }
             }
 
             string ffixed = string.Empty;
@@ -50,9 +61,14 @@ namespace LietuvosTransportas.Code
                 while ((line = reader.ReadLine()) != null)
                 {
                     string[] collums = line.Split(';');
-                    if (!Regex.IsMatch(collums[0], "\\,") && !String.IsNullOrEmpty(collums[0]))
-                        ffixed += string.Join(";", new string[] { collums[0] }) + Environment.NewLine;
+                    if(Regex.IsMatch(collums[0], "\\,"))
+                        continue;
+                    if (!string.IsNullOrEmpty(collums[0]))
+                        ffixed += Environment.NewLine + string.Join(";", new string[] { collums[0], collums[3], collums[4], collums[8], collums[10], collums[13] });
+                    else
+                        ffixed += ';' + string.Join(";", new string[] { collums[8], collums[10], collums[13] });
                 }
+                
                 writer.Write(ffixed);
             }
         }
