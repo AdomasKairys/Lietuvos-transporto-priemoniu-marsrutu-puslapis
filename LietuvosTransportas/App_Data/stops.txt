@@ -1,0 +1,4665 @@
+
+ID;Name
+a3924-1;Amsterdamas
+a2518-1;Asmena
+a3913-1;Bad Oinhauzenas
+a2664-1;Balstogė
+a2641-2;Bauskė
+a5557-1;Bielica
+a5564-1;Bytenas
+a5544-1;Bobruiskas
+a2559-1;Breslauja
+a2642-1;Daugpilis
+a5559-1;Diatlovas
+a2410-1;Druskienniki
+a5550-1;Dvorčianai
+a3922-1;Elblongas
+a2643-1;Eleja
+a5551-1;Falevičiai
+a5573-1;Filipanai
+a3915-1;Freiburgas
+a2533-1;Gardinas
+a5514-1;Gaza
+a3923-1;Gdanskas
+a5558-1;Gezgalai
+a2527-1;Girios
+a5523-1;Glubokij Ručej
+a2528-1;Glubokoje
+a5527-1;Gončarai
+a2507-1;Gracas
+a5571-1;Grebalai
+a5572-1;Gudininkai
+a5553-1;Gumanikai
+a2508-1;Insbrukas
+a2408-1;Kauna
+a57-1;Kaunas Airport
+a5513-1;Kernianai
+a5229-1;Kijevas
+a3911-1;Kylis
+a5521-1;Komarovas
+a3916-1;Konstanca
+a5522-1;Konstantinovas
+a5507-1;Kotlovka
+a5560-1;Kozlovščina
+a5568-1;Kraslievičiai
+a5519-1;Kryžovka
+a3912-1;Liubekas
+a3917-1;Liublinas
+a2802-1;Lodzė (Niepodleglosci)
+a3918-1;Lvov
+a21-1;Marijampol
+a5515-1;Michališkės
+a5534-1;Mikuličiai
+a5529-1;Milkovičiai
+a5526-1;Minoitai
+a2551-1;Minskas
+a10001-1;Mogiliovas Mogilev
+a5000-1;Mrągowo
+a5554-1;Naročius
+a3793-1;Neringos muitinė
+a5537-1;Novyj Dvor
+a2555-1;Novogrudok
+a5528-1;Orkovičiai
+a5538-1;Ostrinas
+a5569-1;Ozaričiai
+a5539-1;Ozerai
+a5543-1;Pariečė
+a2561-1;Pastovys
+a5561-1;Pavlovas
+a4807-1;PC Akropolis
+a2614-1;Piarnu
+a2651-1;Pļaviņas
+a2560-1;Polockas
+a1237-1;Ponewiez
+a5533-1;Poriečje
+a1910-1;Prienai
+a5530-1;Prilukai
+a5541-1;Rėčica
+a2656-1;Riiga lennujaam
+a2655-1;Ryga
+a2657-1;Rygos jūrų uostas
+a5512-1;Rymdzyuny
+a5535-1;Rodūnia
+a5547-1;Rovnoje Pole
+a6006-1;Sankt Peterburgas
+a1641-1;Sauli
+a5517-1;Sidariškės
+a5549-1;Šyrki
+a5511-1;Sloboda
+a5508-1;Slobodka
+a5562-1;Slonimas
+a5540-1;Smėlynė
+a5518-1;Strača
+a5556-1;Švakštai
+a5542-1;Svetlogorskas
+a5532-1;Svitiazis
+a5520-1;Svyriai
+a2615-1;Talinas
+a2616-1;Talino uostas A terminalas
+a2617-1;Talino uostas D terminalas
+a5567-1;Telechanai
+a5548-1;Tolminovas
+a5531-1;Valevka
+a5570-1;Vališčė
+a5552-1;Varenkai
+a2684-1;Varšuva Centrinė
+a2687-1;Varšuva Zachodnė
+a4991-1;Ventspils
+a2517-1;Viena
+a3853-1;Vilnius airport (VNO)
+a3914-1;Viurcburgas
+a5510-1;Vornianai
+a5509-1;Vorona
+a2686-1;Warsaw airport
+a2412-1;Wilno
+a5536-1;Zabolotje
+a2513-1;Zalcburgas
+a5525-1;Žirmūnai
+a5563-1;Žirovičiai
+a5516-1;Žukainiai
+a2663-1;Августов
+a2520-1;Барановичи
+a4110-1;Бастуны
+a4111-1;Бенякони
+a2523-1;Борисов
+a2524-1;Брест
+a7919-1;Винница
+a1016-1;Висагинас
+a3919-1;Гижицко
+a9989-1;Дубно
+a9996-1;Ивангород
+a2509-1;Клагенфурт
+a1474-1;Клайпеда
+a9992-1;Ковель
+a2547-1;Лида
+a9991-1;Луцк
+a1614-1;Мажейкяй
+a4113-1;Молодечно
+a6703-1;Москва (АС "Тушинская")
+a3015-1;Нида
+a3921-1;Ольштын
+a1481-1;Паланга
+a2596-1;Прага (Желевскего)
+a2568-1;Скидель
+a4112-1;Сморгонь
+a2681-1;Сувалки
+a7921-1;Тернополь
+a7920-1;Хмельницкий
+a2567-1;Щучин
+a2a3924-1;Амстердам
+a2a2518-1;Ашмяны
+a3a2518-1;Ошмяны
+a2a3913-1;Бад Ойнхаузен
+a2a2664-1;Бялысток
+a2a2641-2;Bauske
+a3a2641-2;Бауска
+a2a5557-1;Белица
+a2a5564-1;Бытень
+a2a5544-1;Бобруйск
+a2a2559-1;Браслав
+a3a2559-1;Braslava
+a2a2642-1;Даугавпилс
+a2a5559-1;Дятлово
+a2a2410-1;Друскининкай
+a2a5550-1;Дворчаны
+a2a3922-1;Эльблонг
+a2a5551-1;Фалевичи
+a2a5573-1;Филипаны
+a2a3915-1;Фрэйбург
+a3a3915-1;Фрайбург
+a2a2533-1;Hrodno
+a3a2533-1;Hrodna
+a4a2533-1;Гродно
+a2a5514-1;Газа. Goza
+a3a5514-1;Гоза
+a2a3923-1;Danzig
+a3a3923-1;Гданьск
+a2a5558-1;Гезгалы
+a2a2527-1;Hiry
+a3a2527-1;Гири
+a2a5523-1;Глубокий Ручей
+a2a2528-1;Глубокое
+a2a5527-1;Гончары
+a2a2507-1;Грац
+a2a5571-1;Гребалы
+a2a5572-1;Гуденики
+a2a5553-1;Гуменники
+a2a2508-1;Инсбрук
+a2a2408-1;Kowno
+a3a2408-1;Каунас
+a2a57-1;Каунасский Аэропорт
+a3a57-1;Lotnisko Kaunas
+a2a5513-1;Керняны
+a2a5229-1;Киiв
+a3a5229-1;Киев
+a4a5229-1;Kijow
+a5a5229-1;Kyiv
+a6a5229-1;Kijeva
+a7a5229-1;Kiiev
+a8a5229-1;Kiew
+a2a3911-1;Киль
+a2a5521-1;Комарово
+a2a3916-1;Констанца
+a2a5522-1;Константиново
+a2a5507-1;Котловка
+a2a5560-1;Козловщина
+a2a5568-1;Краглевичи
+a2a5519-1;Крыжовка
+a2a3912-1;Lübeck
+a3a3912-1;Любек
+a2a3917-1;Люблин
+a2a2802-1;Лодзь (Неподлеглощи)
+a3a2802-1;Łódź (Niepodleglosci)
+a2a3918-1;Lvovas
+a3a3918-1;Lwow
+a4a3918-1;Львов
+a5a3918-1;Львiв
+a2a21-1;Мариямполе
+a2a5515-1;Михалишки
+a2a5534-1;Микуличи
+a2a5529-1;Мильковичи
+a2a5526-1;Минойты
+a2a2551-1;Минск
+a2a10001-1;Могилёв
+a2a5000-1;Mrangovo
+a2a5554-1;Нарочь
+a2a5537-1;Новый Двор
+a2a2555-1;Новогрудок
+a2a5528-1;Орковичи
+a2a5538-1;Острино
+a2a5569-1;Озаричи
+a2a5539-1;Озёры
+a2a5543-1;Паричи
+a2a2561-1;Pastavy
+a3a2561-1;Постави
+a4a2561-1;Паставы
+a2a5561-1;Павлово
+a2a4807-1;Акрополис
+a2a2614-1;Пярну
+a2a2560-1;Полоцк
+a2a1237-1;Паневежис
+a2a5533-1;Поречье
+a2a5530-1;Прилуки
+a2a5541-1;Речица
+a2a2656-1;Рижский аеропорт
+a3a2656-1;Rygos oro uostas
+a4a2656-1;Rīgas lidosta
+a5a2656-1;Ryga (oro uostas)
+a2a2655-1;Riia
+a3a2655-1;Рига
+a4a2655-1;Rīga
+a2a2657-1;Riiga sadama
+a3a2657-1;Рижский морской порт
+a4a2657-1;Rīgas pasažieru termināls
+a2a5512-1;Рымдзюны
+a2a5535-1;Радунь
+a2a5547-1;Ровное Поле
+a2a6006-1;Sankt Peterburg
+a3a6006-1;Санкт-Петербург
+a2a1641-1;Szawle
+a3a1641-1;Шяуляй
+a4a1641-1;Шауляй
+a2a5517-1;Сидоришки
+a2a5549-1;Ширки
+a2a5511-1;Слобода
+a2a5508-1;Слободка
+a2a5562-1;Слоним
+a2a5518-1;Страча
+a2a5556-1;Швакшты
+a2a5542-1;Светлогорск
+a2a5532-1;Свитязь
+a2a5520-1;Свирь
+a2a2615-1;Talina
+a3a2615-1;Таллин
+a2a5567-1;Телеханы
+a2a5548-1;Толминово
+a2a5531-1;Валевка
+a2a5570-1;Валище
+a2a5552-1;Вареньки
+a2a2684-1;Warsaw Central
+a2a2687-1;Warsaw Zachodnia
+a3a2687-1;Варшава
+a2a4991-1;Вентспилс
+a2a2517-1;Vienna
+a3a2517-1;Wieden
+a4a2517-1;Вена
+a2a3914-1;Würzburg
+a3a3914-1;Вюрцбург
+a2a5510-1;Ворняны
+a2a5509-1;Varona
+a3a5509-1;Ворона
+a4a5509-1;Варона
+a2a2686-1;Варшава аэропорт
+a3a2686-1;Varšuvos oro uostas
+a2a2412-1;Wilna
+a3a2412-1;Вильнюс
+a2a5536-1;Заболоть
+a2a2513-1;Зальцбург
+a2a5525-1;Жирмуны
+a2a5563-1;Жировичи
+a2a5516-1;Жукойни
+a2a2663-1;Augustavas
+a2a2509-1;Klagenfurtas
+a2a1474-1;Klajpeda
+a2a2547-1;Lyda
+a2a4113-1;Маладзечна
+a3a4113-1;Maladzyechna
+a2a3921-1;Olštynas
+a2a4112-1;Smurgainys
+a2a2681-1;Suvalkai (Lenkija)
+a2a2567-1;Ščiučinas
+2504-1;Arnoldstein PKP
+2505-1;Brenner PKP
+2506-1;Drasenhofen PKP
+2507-1;Graz, Hbf. ZOB
+2508-1;Innsbruck, Eisstadion
+2509-1;Klagenfurt, Busbahnhof
+2510-1;Linz
+2512-1;Nickelsdorf (A),  PKP
+2513-1;Salzburg, Lastenstr.12
+2514-1;Sankt  Polten
+2515-1;Thorl PKP
+2516-1;Walserberg PKP
+2517-1;Wien, Südtirolerplatz, stop B4
+2517-2;Wien, U3 Erdberg Station
+2582-1;Antwerpen, Van Stralenstraat
+2583-1;Brussel, Nord station
+2584-1;Gent
+2585-1;Liege, rue Varin 33-43, Eurolines stop
+2586-1;Kalotina PKP (BG)
+2587-1;Sofia, Bus station Trafic Market
+2518-1;Ašmena
+2519-1;Astravas
+2520-1;Baranovičiai
+4110-1;Bastūnai
+5524-1;Benekainių muitinė
+4111-1;Benekainys (Benekony)
+5577-1;Beniakoni PKP
+2522-1;Berezovka
+5557-1;Bielica AS
+5564-1;Bytenas
+5544-1;Bobruiskas AS
+2523-1;Borisov
+2559-1;Braslav
+2524-1;Brest
+5559-1;Diatlovas AS
+5550-1;Dvorčianai
+5551-1;Falevičiai
+5573-1;Filipanai
+2525-1;Filipovičiai
+5514-1;Gaza
+2526-1;Gervėčiai
+5558-1;Gezgalai
+2527-1;Girios
+5523-1;Glubokij Ručej
+2528-1;Glubokoje
+5232-1;Gomel
+5527-1;Gončarai
+2529-1;Gorodiščė
+4106-1;Gorodišče (Brestskaja obl.)
+2530-1;Goža
+2531-1;Grandičiai
+5571-1;Grebalai
+2533-1;Grodno, AS
+3857-1;Grodno, z/d
+5572-1;Gudininkai
+5553-1;Gumanikai
+2535-1;Ivaceviči
+2536-1;Izabelin
+2537-1;Jurčiki
+5546-1;Kamenyj Log muitinė (Baltarusija)
+2538-1;Kamieny Log
+5513-1;Kernianai
+2540-1;Kobrin
+6735-1;Kolejevci
+5521-1;Komarovas
+5522-1;Konstantinovas
+2541-1;Kossovo
+5507-1;Kotlovka
+5506-1;Kotlovkos muitinė (Baltarusija)
+2544-1;Koziki
+5560-1;Kozlovščina
+5568-1;Kraslievičiai
+2546-1;Kriničnaja
+5519-1;Kryžovka
+2547-1;Lida
+2548-1;Logišyn
+2549-1;Malai
+6736-1;Mankoviči
+5515-1;Michališkės
+5534-1;Mikuličiai
+5529-1;Milkovičiai
+5526-1;Minoitai
+2553-1;Minsk (AS "Druznaja")
+2551-1;Minsk (centralnyj)
+2554-1;Minsk (Moskovskij)
+2552-1;Minsk (Vostočnyj)
+10001-1;Mogiliavas
+4113-1;Molodečno
+5554-1;Naročius
+5555-1;Naročius AS
+2555-1;Naugardukas
+5578-1;Nevda
+5231-1;Novaja Huta (Baltarusija)
+5537-1;Novyj Dvor
+6734-1;Ogorodniki
+5528-1;Orkovičiai
+2556-1;Orsha
+5538-1;Ostrinas AS
+5569-1;Ozaričiai
+5539-1;Ozerai
+5543-1;Pariečė
+5561-1;Pavlovas
+2558-1;Pinsk
+2560-1;Polockas
+5533-1;Poriečje
+2561-1;Postavy
+5530-1;Prilukai
+2562-1;Privalka
+2563-1;Privalkų muitinė
+2564-1;Pružany
+5541-1;Rėčica
+5512-1;Rimdžiūnai
+5535-1;Rodūnia
+5547-1;Rovnoje Pole
+2566-1;Ružany
+2567-1;Schuchin
+5517-1;Sidariškės
+5549-1;Šyrki
+2568-1;Skidel
+2569-1;Sloboda
+2570-1;Slobodka
+5562-1;Slonimas AS
+4112-1;Smorgon
+5518-1;Strača
+2571-1;Šumilino
+5556-1;Švakštai
+6733-1;Švakšti
+5542-1;Svetlogorskas AS
+2572-1;Sviataja Volia
+5532-1;Svitiazis
+5520-1;Svyriai
+5567-1;Telechanai
+5548-1;Tolminovas
+5531-1;Valevka
+5570-1;Vališčė
+5552-1;Varenkai
+2575-1;Vitebskas
+2576-1;Volkovysk
+5510-1;Vornianai
+5509-1;Vorona
+2579-1;Voronovas
+5536-1;Zabolotje
+2580-1;Zinoviči
+5525-1;Žirmūnai
+5563-1;Žirovičiai
+2581-1;Zodino
+5516-1;Žukainiai
+3802-1;Basel, Meret Oppenheim - Strasse
+3803-1;Bern, Neufeld Car Terminal
+3805-1;Geneve, gare routiere, place Dorciere
+3804-1;Lausanne, Parking du Velodrome
+3801-1;Luzern, Inseliquai
+3799-1;Sankt Gallen, Lagerstrasse 10
+3800-1;Zurich, Carparkplatz am Sihlquai
+2588-1;Brno, UAN Zvonarka
+7914-1;Brno,hotel Grand bus station
+2589-1;Česki Tešin PKP
+2590-1;Dreasenhofen PKP
+2591-1;Frydek Mistek , AN na Porici
+2592-1;Hradec Kralove, bus station
+2593-1;Mikulov PKP
+2594-1;Nachod PKP
+3796-1;Olomouc, AN
+3795-1;Ostrava, UAN
+2595-1;Plzen, centr.autobusove nadrazi
+2596-1;Praha, AN Zelivskeho
+2597-1;Praha, Florenc bus station
+2598-1;Rozvadov PKP
+2599-1;Tešin PKP
+2751-1;Aachen
+2752-1;Augsburg
+3913-1;Bad Oeynhausen ZOB
+2753-1;Bayreuth, Bf.
+2754-1;Berlin, ZOB am Funkturm
+2755-1;Bielefeld, Bf. Brackwede
+2756-1;Bochum, Wittener Str.
+6007-1;Bonn
+2757-1;Braunschweig, ZOB Pavillon
+2758-1;Bremen, ZOB, Breitenweg
+2759-1;Bremerhaven, Hbf., P+R, Bismarckstr.
+2760-1;Dortmund, Hbf.ZOB, Steinstrasse
+2761-1;Dresden, Hbf., Bayrische Str.
+2762-1;Duisburg, Busbahnhof, Mercator Str.
+2763-1;Dusseldorf, Worringer Str., Busbahnhof
+2764-1;Eisenach, Uferstrasse
+2765-1;Erfurt, Hbf., Halt.7
+2767-1;Essen, Hbf., Freiheit
+2768-1;Frankfurt am Main, Hbf.OB
+2766-1;Frankfurt PKP
+3915-1;Freiburg Hbf. (Busbahnhof)
+2769-1;Giessen, Licher Str., Automeile
+2770-1;Gotha, Hbf. Steig 5
+2771-1;Halle, ZOB am Hbf.
+2772-1;Hamburg ZOB am Hbf., Adenauerallee
+2773-1;Hannover, Hbf. OB
+2774-1;Heilbron
+2775-1;Hof, Hbf., Hast. 4
+2776-1;Ingolstadt, Hbf.
+2777-1;Ingolstadt, OB Esplanade
+2778-1;Jena, Busbahnhof Paradies, Steig 1
+2779-1;Kaiserslautern
+2780-1;Karlsruhe, Hbf. Sudseite
+2781-1;Kassel, Bf Wilhelmshohe
+2782-1;Kehl PKP
+2783-1;Kiefersfelden PKP
+3911-1;Kiel ZOB
+2784-1;Koln, Airport Köln/Bonn, Fernbusbahnhof
+4074-1;Koln/Bonn Airport, Fernbusbahnhof
+3916-1;Konstanz Döbeleplatz
+2786-1;Leipzig Airport, Zentralterminal, unter Check-in Bereich
+2785-1;Leipzig, Goethestrasse (Hbf.)
+3912-1;Lubeck Hbf.
+2787-1;Ludwigsdorf PKP
+2788-1;Magdeburg,  ZOB
+2789-1;Mainz
+2790-1;Mannheim ZOB , H. von Stefan Str.
+2791-1;Munchen, P+R Frottmaning
+3792-1;Munchen, ZOB Hackerbruecke 4
+2793-1;Munster, bus stop "Hafenstrasse", Friedrich-Ebert-Straße 1
+2794-1;Nurnberg ZOB,Bahnhofsstraße
+2795-1;Osnabruck Hbf., Eisenbahnstrasse
+3798-1;Regensburg
+2796-1;Remich PKP
+2797-1;Rostock, Dierkower Kreuz ,  Hst. H
+2798-1;Rudolphstein
+2999-1;Rudolphstein, BAB-Rastst. Frankenwald
+3000-1;Saarbrucken
+3001-1;Saarlouis
+3002-1;Stuttgart Airport Busterminal SAB
+3003-1;Ulm
+3004-1;Waidhaus PKP
+3005-1;Weimar, Hbf. Hlst. 8
+3914-1;Wurzburg Hbf. (Bismarckstr.)
+2600-1;Aabenraa
+2602-1;Aarhus, bus station
+2603-1;Copenhagen, Ingerslevsgade
+2604-1;Flensburg
+2605-1;Gedser (DK)
+2607-1;Kolding, bus station
+2608-1;Nykobing/Falster
+2609-1;Skanderborg
+2611-1;Vejle, bus station
+2612-1;Ikla PKP
+2613-1;Iklon muitinė
+9990-1;Narva
+2614-1;Parnu
+2615-1;Tallinn (bus station)
+2617-1;Tallinn Port D terminal
+2616-1;Tallinn Port terminal A
+2618-1;Madrid
+2698-1;Calais PKP
+2699-1;Lille, bld.de Turin, Suite Novotel
+3809-1;Marseille, gare routiere St. Charles, rue Honnorat
+2700-1;Metz
+3807-1;Nice, 2 av. Felix Faure (ancienne gare routiere)
+6002-1;Paris (gare du Nord)
+2701-1;Paris, gare Eurolines Gallieni
+2702-1;Reims
+2703-1;Strasbourg
+2704-1;Strasbourg PKP
+3808-1;Toulon, gare routiere, Boulevard de Tesse
+2747-1;Budapest
+6015-1;Budapest, bus stop Kelenföld
+2748-1;Hegyeshalom (HU), PKP
+2749-1;Roszke PKP
+2619-1;Ancona
+2620-1;Bologna, autostazione, Piazza XX settembre
+2621-1;Bolzano, autostazione, via Perathoner 4
+2622-1;Brenero PKP
+2623-1;Brescia, autostazione CIBA, via Solferino
+2625-1;Firenze
+2624-1;Firenze, SITA bus station
+3806-1;Genova - Voltri, via Voltri (Agip)
+2626-1;Mestre (Venezia), viale Stazione 1
+2511-1;Milano, autostazione Lampugnano, via Giulio Natta
+2627-1;Padova, autostazione
+2628-1;Pesaro
+2629-1;Pescara
+2630-1;Rimini
+2631-1;Roma, Tiburtina bus station
+2632-1;Tarvisio PKP
+2633-1;Trento, bus station, Lungadige Monte Grappa
+3797-1;Udine, autostazione, v. le Europa Unita
+2634-1;Verona, autostazione Porta Nuova
+4536-1;"Laisvė"
+4520-1;"Luokava"
+4527-1;Agluonai
+1680-1;Akmenė
+4506-1;Akmenė III
+1679-1;Akmenės SMK
+1676-1;Alkiškiai
+4516-1;Balsiai
+4551-1;Baubliai
+1678-1;Dabikinė
+4535-1;Dabikinėlė
+4565-1;Dargaičiai
+4567-1;Daujočiai
+4548-1;Deguliai
+4544-1;Dovydžiai
+4553-1;Draginiai
+4512-1;Dubriai
+4942-1;Eternit Baltic
+4532-1;Gailaičiai
+4562-1;Gedvydžiai
+4559-1;Gembutės
+1624-1;Gendviliškės
+4524-1;Greitjoniškis
+4510-1;Griežiai
+4531-1;Ivanauskai
+4566-1;Jauneliškės
+1670-1;Jautmalkiai
+4529-1;Jučiai
+4514-1;Kairiškiai
+4511-1;Kalniškiai
+4560-1;Karniškės
+1673-1;Keidai
+4533-1;Kepurlaukiai
+4549-1;Kinkiai
+4526-1;Kivyliai
+4550-1;Klaišiai
+4523-1;Klykoliai
+4537-1;Klyšiai
+1682-1;Kruopiai
+4528-1;Latveliai
+4543-2;Laumenai
+4543-1;Laumėnai
+4530-1;Mažuliai
+4557-1;Menčiai
+4563-1;Mykolaičiai
+1671-1;Narčiai
+1674-1;Naujoji Akmenė
+4505-1;Naujosios Akmenės oro uostas
+4546-1;Pagerviai
+1672-1;Pakalniškiai
+1623-1;Papilė
+1675-1;Pašakarniai
+4525-1;Pipiriai
+1620-1;Purviai
+4534-1;Pušynas
+4568-1;Račiai
+4515-1;Raikiškės
+4515-2;Rakiškės
+4519-1;Ramučiai
+4509-1;Rimšai
+4547-1;Rudeliškiai
+4558-1;Sablauskiai
+4556-1;Sablauskų tvenkinys
+4542-1;Šapnagiai
+4564-1;Saveikiai
+1625-1;Šemetaičiai
+4513-1;Šiaudinė
+4508-1;Šiliškės
+1677-1;Smiltinė
+4545-1;Spaigiai
+5974-1;Stipirkių kapinės
+4522-1;Suginčiai
+4521-1;Suginčių parduotuvė
+4517-1;Sukančiai
+4518-1;Tryškiai
+1621-1;Venta
+4507-1;Ventos vaikų globos namai
+1622-1;Vienrankiai
+4561-1;Viliočiai
+208-1;AB "Skirnuva"
+212-1;Alovės kryžkelė
+219-1;Andriūnai
+200-1;Angininkai
+3841-1;Balbieriškio kryžkelė
+195-1;Balkūnai
+260-1;Beržinė
+272-1;Bundžiai
+385-1;Butrimiškiai
+3832-1;Butrimiškiai II
+237-1;Butrimonys
+268-1;Čižiūnai
+217-1;Daugai
+218-1;Doškonys
+210-1;Druskininkų sankryža
+3836-1;Dubis
+384-1;Dušnionys
+239-1;Eičiūnai
+241-1;Eigirdonys
+130-1;Geištarai
+121-1;Geniai
+266-1;Gervėnai
+204-1;Giluičiai
+216-1;Gilūšis
+236-1;Greikonys
+235-1;Griškonys
+3826-1;Jovaišonys
+269-1;Junčionys
+128-1;Jurgiškiai
+229-1;Jurkonys
+3833-1;Kabinės
+203-1;Kaimynai Alytaus r.
+3838-1;Kalesninkai
+209-1;Kaniūkai Alytaus r.
+232-1;Karvelninkai
+120-1;Kelmanonys
+3010-1;Klepočiai
+3842-1;Krokialaukis
+231-1;Kružiūnai
+194-1;Kurnėnai Alytaus r.
+264-1;Lelionys
+192-1;Likiškėliai
+381-1;Lydekininkai
+193-1;Luksnėnai
+380-1;Makniūnai
+134-1;Mankūnai
+131-1;Maslaučiškės
+201-1;Mergalaukis
+383-1;Meškasalis
+213-1;Mieliūnai
+215-1;Miesčionka
+265-1;Miglinasai
+3829-1;Miklusėnai
+3825-1;Mikutiškiai
+3837-1;N.Ūdrija
+230-1;Norgeliškės
+238-1;Olendernė
+3834-1;Pakašavas
+3827-1;Panemuninkai
+270-1;Pavarėnys
+3840-1;Peršekė
+199-1;Peršėkininkai
+378-1;Pieriškiai
+273-1;Pivašiūnai
+214-1;Pocelonys
+196-1;Pošnia Alytaus r.
+386-1;Poteronys
+211-1;Poteronys Alovės sen.
+2490-1;Punia
+3828-1;Punios girininkija
+233-1;Punios kryžkelė
+133-1;Pupasodis
+127-1;Radžiūnai
+123-1;Raudonikiai
+377-1;Ryliškiai
+124-1;Rutka
+122-1;Sabališkės
+197-1;Santaika
+379-1;Savilionys
+234-1;Silgionys
+202-1;Simnas
+267-1;Skraičionys
+275-1;Statkiškės
+274-1;Sudvariškės
+262-1;Takniškiai
+263-1;Takniškiai II
+261-1;Takniškių kryžkelė
+129-1;Talokai
+132-1;Tolkūnai
+191-1;TV bokštas Alytaus m.
+3835-1;Ūdrija
+207-1;Ūkininkų turgus
+271-1;Ūta
+3830-1;Užubaliai
+198-1;Varnagiriai
+376-1;Veismūnai
+126-1;Vidzgiris
+240-1;Žalioji
+3823-1;Žiaunieriškiai
+3824-1;Žiaunieriškiai I
+309-1;"Internatas"
+397-1;"Miesto sodas"
+3929-1;Alytaus kolonija
+125-1;Alytus
+3927-1;Alytus (centras)
+206-1;Daugų g.
+3928-1;Druskininkų g
+3928-2;Druskininkų g.
+1196-1;Andrioniškis
+1032-1;Anykščiai
+1025-1;Antrieji Svirnai
+1031-1;Ažuožeris
+1208-1;Bajorai
+1028-1;Bebrūnai
+877-1;Biržinė
+999-1;Butėnai
+1035-1;Čekonys
+871-1;Dejūnai
+875-1;Desiukiškiai
+1189-1;Didžiakaimis
+1198-1;Didžiuliškiai
+879-1;Diktarai
+1033-1;Elmininkai
+1193-1;Gražumynas
+1344-1;Jackagalys
+1345-1;Jackagalys I
+1342-1;Juostininkai
+1200-1;Jurgiškis
+1338-1;Kalnuočiai
+1186-1;Karališkis
+1337-1;Karčiai
+997-1;Katlėriai
+1050-1;Kavarskas
+998-1;Kiškeliai
+878-1;Klevėnai
+1041-1;Kraštai
+1190-1;Kurkliai
+874-1;Kurklių 1 km
+1037-1;Leliūnai
+2171-1;Levaniškiai
+1038-1;Mickūnai
+1341-1;Mileikiškiai
+876-1;Miškiniškiai
+873-1;Moliakalnis
+1197-1;Padvaminkai
+1335-1;Pagojė
+996-1;Pašiliai
+1039-1;Pauriškiai
+1191-1;Pavirinčiai
+1194-1;Puntukas
+1346-1;Raguvėlė
+1036-1;Rašimai
+1024-1;Riklikai
+1343-1;Rukiškis
+1042-1;Savičiūnai
+995-1;Skiemonys
+1195-1;Šlavėnai
+1192-1;Šližiai
+872-1;Staškūniškis
+1040-1;Svėdasai
+1339-1;Troškūnai
+1340-1;Vaidlonys
+1030-1;Vaivadiškiai
+1199-1;Viešintos
+1336-1;Vikonys
+1034-1;Vosgėliai
+1000-1;Žalioji
+1029-1;Zaviesiškis
+489-1;"Verknė"
+1872-1;Birštonas
+525-1;Birštono kalnas
+6027-1;Birštono seniūnija
+2447-1;Dimšiškės
+1795-1;Dzingeliškės
+487-1;Geležūnai
+1787-1;Geležūnų mokykla
+3852-1;Jaunimo g.
+488-1;Jundeliškės
+1873-1;Kapinės
+1789-1;Kernuvė
+486-1;Kolupis
+1797-1;Matiešionių miškas
+1794-1;Matiešionys
+1790-1;Naudžiūnai
+1791-1;Naudžiūnai 1
+1780-1;Nemajūnai
+6025-1;Nemajūnai 1
+1784-1;Šaltinėnai
+1786-1;SB "Šilėnai"
+1871-1;Seklytėlė
+1783-1;Siponių mokykla
+1782-1;Siponys
+1781-1;Siponys 1
+1870-1;Škėvonys
+1792-1;Skriodės
+1785-1;Vaitkiškės
+1793-1;Žemaitkiemis
+1326-1;"Paštas"
+1325-1;Beržiniai
+1327-1;Biržai
+4705-1;Daunoriai
+4700-1;Dirvonakiai
+4702-1;Geidžiūnai
+2240-1;Juodeišiai
+2237-1;Kapinės
+2239-1;Kirdonys (Biržų r.)
+1328-1;Kratiškiai
+1323-1;Kučgalys
+4701-1;Kuteliai
+1322-1;Kvedariškis
+4706-1;Meilūnai
+1329-1;Mieliūnai
+2238-1;Pabiržė
+1324-1;Papilys
+1331-1;Ramongaliai
+4704-1;Sviliai
+1330-1;Vabalninkas
+4703-1;Zizonys
+3859-1;Aidas
+3818-1;Ateities stotelė
+3820-1;Autobusų stotis
+2409-1;Baltašiškė
+3870-1;Barzdžiūnai
+396-1;Degalinė
+3866-1;Degesiai
+3875-1;Diržai
+2410-1;Druskininkai
+3855-1;Druskininkai Akvaparkas
+3854-1;Druskininkai Info-taškas
+4936-1;Druskininkai sanatorija "Belarus"
+4937-1;Druskininkai sanatorija "Draugystė"
+4935-1;Druskininkai sanatorija "Grand Spa Lietuva"
+4938-1;Druskininkai sanatorija "Saulutė"
+4939-1;Druskininkai sanatorija "UPA"
+144-1;Druskininkėliai
+3820-2;Druskininkų autobusų stotis
+3814-1;Eglės sanatorija Druskininkai
+3007-1;Gailiūnai
+3862-1;Gailiūnai III
+3863-1;Gailiūnai V
+3849-1;Gailiūnai VI
+3008-1;Gailiūnų mokykla
+3822-1;Gerdašiai
+3858-1;Gimnazija
+394-1;Grūtas
+3839-1;Grūto parkas
+3867-1;Guobiniai
+3847-1;Jaskonys I
+3861-1;Kalviškės
+2450-2;Kaziuliai
+3813-1;Laisvės aikštė
+694-1;Latežeris
+143-1;Leipalingis
+3876-1;Lipniūnai
+3877-1;Lipniūnų ūkis
+3871-1;Margai
+142-1;Mažonys
+3860-1;Melnyčėlė
+2451-2;Mizarai
+3874-1;Mizarai I
+3819-1;Papartis
+3848-1;Raigardas
+3815-1;Raigardo muitinė
+392-1;Randamonys
+395-1;Ratnyčia
+362-1;Raudonikiai
+3865-1;Ricieliai
+145-1;Saltoniškė
+361-1;Savanoriai
+3846-1;Smiltynų
+3864-1;Snaigupė
+3850-1;Snow arena
+3851-1;Švendubrė
+3869-2;Turgus
+3873-2;Veršiai
+141-1;Vileikiai
+3872-1;Zasciūniškės
+393-1;Žiogeliai
+100-1;Abromiškės
+101-1;Ausieniškės
+96-1;Dumsis
+99-1;Elektrėnai
+99-3;
+4818-1;Elektrėnų "Ledo rūmai"
+5121-1;Elektrėnų centras
+97-1;Gilučiai
+104-1;Lazdėnai
+98-1;Mijaugonys
+5125-1;N.Rajonas
+5124-1;Pergalės
+5123-1;Saulės
+103-1;Skirmantiškės
+108-1;Strošiūnai
+5122-1;Taikos
+102-1;Vievis
+969-1;Berniūnai
+1011-1;Didžiasalis
+1014-1;Dūkštas
+967-1;Grikiapelė
+9952-7;Guntauninkai
+976-1;Ignalina
+9953-9;Jakeliai
+5430-1;Kazitiškis
+968-1;Kupriai
+965-1;Linkmenys
+978-1;Motiejūnai
+979-1;Obelų Ragas
+966-1;Palūšė
+1013-1;Pažemiškis
+964-1;Pažiezdris
+977-1;Šarkava
+963-1;Šiškiniai
+1012-1;Sokiškiai
+9951-6;Tverečius
+55955-3;Žydeliai
+71-1;"Centras"Jonavoje
+65-1;25- km
+67-1;28-km
+73-1;AB "Žaizdrė"
+1262-1;Akliai
+840-1;Bajoriškiai
+2110-1;Batėgala
+1273-1;Bukonys
+68-1;Dumšai
+60-1;Girininkai II, Jonavos r.
+858-1;Ilgabradai
+61-1;Išorai
+61-3;Išorų gyvenvietė
+898-1;Jadvygava
+74-1;Jonalaukis
+72-1;Jonava
+4812-1;Jonava 1
+3938-1;Kalnėnų bendrovė
+3939-1;Kalnėnų gel. stotis
+3940-1;Kapinės
+70-1;Kunigiškiai
+857-1;Makštava I
+856-1;Makštava II
+839-1;Markutiškiai
+1264-1;Martyniškis
+2108-1;Mažieji Žinėnai
+75-1;Meištoniai
+1272-1;Mimainiai
+1259-1;Mitėniškiai
+1261-1;Normainiai
+859-1;Pageležių durpynas
+1260-1;Pauliukai
+64-1;Rudmenai
+77-1;Rukla
+76-1;Ruklos miestelis
+66-1;Šalūgiškiai
+855-2;Senadvariai
+63-1;Sodai
+78-1;Sodai "Neris"
+69-1;Spanėnai
+5998-1;Šveicarija
+79-1;Sveikatingumo centras
+62-1;Sviloniai
+59-1;Turžėnai
+841-1;Upninkai
+3941-1;Užusaliai
+4903-1;Užusalių gaisrinė
+1263-1;Žeimiai
+2109-1;Žinėnai
+1667-1;Aleksandravas
+4930-1;Ąžuolynė
+1711-1;Bariūnai
+1715-1;Blauzdžiūnai
+1660-1;Buivydžiai
+1658-1;Centras
+1652-1;Dargiai
+1653-1;Gataučiai
+1651-1;Jauniūnai
+1656-1;Joniškis
+1659-1;Kalnelis
+4933-1;Kemsai
+1709-1;Kepaliai
+1655-1;Kirnaičiai
+1714-1;Kriukai
+1662-1;Lankaičiai
+48871;Maldeniai
+1669-1;Martyniškiai
+1708-1;Mėdginai
+4929-1;Mikolaičiūnai
+1654-1;Niūraičiai
+1710-1;Noriūnai
+1712-1;Pavirčiuvė
+1664-1;Petraičiai
+1668-1;Puikiai
+1663-1;Skaistgirys
+1713-1;Skakai
+1661-1;Šluostikiai
+4928-1;Sodai
+1650-1;Stripeikiai
+1665-1;Stungiai
+4932-1;Taučiūnai
+4931-1;Vaidminiai
+4501-1;Valiūnai
+1666-1;Žagarė
+1657-1;Žagarės g.
+4934-1;Žagariškiai
+824-1;"Savivaldybė"
+3993-1;Adomaitiškės
+4007-1;Akmeniškiai
+3997-1;Ambručiai
+4035-1;Aneliškė
+3947-1;Antvardė
+4062-1;Armena
+4001-1;Armeniškiai
+4063-1;Armeniukas
+4002-1;Armenos girininkija
+4058-1;Armenos linija
+3972-1;Balandžiai
+3971-1;Balniai
+4067-1;Belvederis
+4013-1;Bereiviškiai
+4011-1;Birbiliškės
+3988-2;Bliiudžiai
+3988-1;Bliudžiai
+1387-1;Būdos
+4057-1;Burbiškiai
+4024-1;Butaičiai
+3954-1;Butkaičiai
+3968-1;Dainiai
+3946-1;Dainiai II
+4047-1;Dirvonai
+3994-1;Dubinskai
+4049-1;Eidutiškis
+4026-1;Eimantai
+1386-1;Eržvilkas
+4032-1;Gauraičiai
+4031-1;Gaurė
+4017-1;Gervėnai
+3945-1;Giedriai
+3948-1;Girdžiai
+3951-1;Girdžių kaimas
+3949-1;Girdžių mokykla
+3956-1;Girninkija
+4016-1;Gystėnai
+833-1;Graužėnai
+4071-1;Greičių linija
+4010-1;Gudžiunai
+1395-1;Išdagai
+1083-1;Jakaičiai
+4005-1;Juodaičiai
+1397-1;Jūrava
+1381-1;Jurbarkai
+2411-1;Jurbarkas
+3943-1;Jurbarko agroservisas
+3942-1;Jurbarko autobusų parkas
+823-1;Kalnėnai
+3992-1;Kalveliai
+4054-1;Kaniukai
+3975-1;Kartupiai
+1081-1;Kartupis
+3977-1;Kartupių gyvenvietė
+3976-1;Kartupių kryžkelė
+3953-1;Kavoliai
+830-1;Kybartai Jurbarko r.
+4051-1;Kybartų mokykla
+835-1;Klangiai
+3995-1;Klapatinė
+2489-1;Klausučiai
+3944-1;Klišiai
+4023-1;Kulvertiškė
+4034-1;Kunigiškiai
+3955-1;Lapgiriai
+3974-1;Lenkčiai
+3967-1;Ligoninė
+4008-1;Liucinava
+3986-1;Liudvinava
+1389-1;Lybiškiai
+3962-1;Medininkai
+4066-1;Merontiškiai
+3981-1;Mikutaičiai
+4029-1;Milgaudžiai
+4006-1;Misiūnai
+3950-1;Miškininkų gyvenvietė
+3969-1;Mokinių sustojimas
+3984-1;Molynė
+3983-1;Molynės kalnas
+4022-1;Mosteikiai
+4056-1;Naciūnai
+4045-1;Naujininkai
+4046-1;Naujininkėliai
+3985-1;Naukaimis
+3964-1;Paalsys
+3965-1;Paalsys II
+4061-1;Paarmenys
+4068-1;Padubysio gyvenvietė
+3999-1;Padubysys
+4004-1;Pagausantys
+3973-1;Pagiriai
+3959-1;Paišlinys
+4009-1;Pamituvys
+5500-1;Panemunės muitinė
+4052-2;Pantvardys
+4025-1;Pašaltuonys
+3957-1;Paskyniai
+4053-1;Pasnietalys
+822-1;Pašventys
+1084-1;Pauliai
+3952-1;Pavidaujys
+3963-1;Pavidaujys Šimkaičių sen.
+1384-1;Paviduojo kryžkelė
+4003-1;Pavietava
+4042-1;Paviščiuvys
+4015-1;Pelučiai
+4014-1;Petuteliai
+4040-1;Plėkiai
+4039-1;Plėkiai II
+832-1;Plokščiai
+4043-1;Poliai
+4048-1;Posaičiai
+4020-1;Pratvalkai
+3978-1;Puziškiai
+831-1;Raudonė
+4050-1;Raudonenai
+825-1;Rotuliai
+3991-1;Rustekonys
+4044-1;Rutkiškiai
+4064-2;Satsiūnai
+3998-1;Seredžiaus MSV
+836-1;Seredžius
+827-1;Šilinė
+1085-1;Šimkaičiai
+826-1;Skirsnemunė
+1393-1;Smalininkai
+3966-1;Stakiai
+4064-1;Stasiūnai
+4027-1;Steigvilai
+4036-1;Stragutė
+1082-1;Švendriškiai
+4012-1;Tamošiai
+4021-1;Taubučiai
+4037-1;Tauragės mėsos kombinatas
+4028-1;Trauklaukis
+1394-1;Užbaliai
+3958-1;Vadžgirys
+3960-1;Vadžgirkelis
+3996-1;Vaičiuskai
+1382-1;Vajotai
+4000-1;Vambaliai
+1388-1;Varlaukis
+834-1;Veliuona
+4019-1;Veliuonos kalnas
+4018-1;Veliuonos mokykla
+829-1;Vencloviškiai
+3982-1;Vertimai
+3970-1;Vertimų kelias
+3980-1;Vertimų kryžkelė
+4030-1;Vėžaičiai
+1396-1;Viešvilė
+1385-1;Vilniškiai
+4055-1;Vilniškių gyvenvietė
+4041-1;Viščiuva
+828-1;Vytėnai
+4059-1;Vosbutai
+4069-1;Vosbutų mokykla
+4060-1;Zardiškiai
+4033-1;Žiburiai
+1383-1;Žindaičiai
+4038-1;Žukaičiai
+1850-1;1-ieji kolektyviniai sodai
+1851-1;2-ieji kolektyviniai sodai
+110-1;Antakalnis
+3235-1;Antakalnis I
+3236-1;Antakalnis Kaišiadorių krp.
+1843-1;Apidemis
+109-1;Bačkonys
+1834-1;Bartkūnai
+1745-1;Basonys
+92-1;Bažnyčia Žasliuose
+3234-1;Bublių kr.
+83-1;Bučionys
+1840-1;Burčiakai
+1744-1;Būtkiemis
+86-1;Butkūnai
+1837-1;Dovainonių centras
+1836-1;Dovainonių mokykla
+3930-1;Dovainonių paukštynas
+3931-1;Dovainonys I
+82-1;Gegužinė
+3238-1;Girelės paukštynas
+1830-1;Grabuciškės
+3237-1;Grėbliauciškės
+1829-1;Jakštonys
+3239-1;Kaišiadorių paukštynas
+3240-1;Kaišiadorys
+1747-1;Kalviai
+1746-1;Kalvių ežeras
+1828-1;Karčiupis
+3233-1;Kaspariškės
+1841-1;Kruonis
+1846-1;Lankakiemis
+90-1;Laukysta
+1839-1;Mankuviškės
+1742-1;Migonių kryžkelė
+1844-1;Migonys
+88-1;Paukščiai
+1739-1;Pravieniškių biblioteka
+1741-1;Pravieniškių galinis punktas
+1738-1;Pravieniškių gel.stotis
+1740-1;Pravieniškių sankryža
+84-1;Putriškės
+93-1;Rasava
+112-1;Rumšiškės
+4959-1;Rumšiškės (Liaudies buities muziejus)
+1833-1;Rumšiškių centras
+1831-1;Rumšiškių paviljonas
+3932-1;Rusonys
+81-1;Senoji Gegužinė
+89-1;Stabintiškės
+1842-1;Stebeikiai
+87-1;Surveliai
+1743-1;Šventininkai
+1838-1;Tadarava
+95-1;Talpūnai
+80-1;Tartokas
+1749-1;Užgirėlis
+1835-1;Užtakai
+1845-1;Vilūnai
+91-1;Žasliai
+94-1;Žaslių glž.st.
+113-1;Žiežmariai
+85-1;Zūbiškės
+6045-1;Aistiškių kryžkelė
+339-1;Dominiškiai
+323-1;Gazdai
+6046-1;Girkantų kryžkelė
+313-1;Gulbiniškiai II
+315-1;Jungėnai
+325-1;Jusevičiai
+317-1;Kalvarija
+316-1;Kalvarijos glž.st.
+341-1;Kamšai
+322-1;Kasauskai
+327-1;Kvietkinė
+6044-1;Liepalotų kryžkelė
+328-1;Mockai
+329-1;Mockava
+347-1;Nemunaičiai
+314-1;Pasūduonys
+321-1;Raudeniškiai
+324-1;Sangrūda
+319-1;Santaka
+338-1;Šilėnai
+337-1;Slabatka
+6047-1;Smalnyčėnai
+340-1;Sūsninkai
+326-1;Tabarauskai
+320-2;Zubriai
+3881-1;"Urmas"
+2481-1;2-asis fortas
+1883-1;7-asis km.
+4075-1;9-ojo  forto g.
+3878-1;9-ojo forto g.
+4201-1;9-ojo forto muziejus
+5976-1;Akių klinika
+2479-2;Aleksoto poliklinika
+2479-1;Aleksoto poliklininka
+6067-1;Apaščios g.
+2121-1;Ariogalos g.
+5980-1;Ašigalio g.
+6065-1;Ateities pl.
+1880-1;Atrama
+2449-1;Autobusu Parkas
+4901-1;Autobusų stotis
+1818-1;Bernardinų plytinės g.
+1877-2;Birštono g.
+5983-1;Čečėnijos aikštė
+571-1;Devintas fortas
+1827-1;Draugystės g.
+2477-1;E.Ožeškienės g.
+5982-1;Eiguliai
+1853-1;Europos pr.
+2474-1;Gedimino g.
+4900-1;Geležinkelio stotis
+1813-1;IKI
+4816-1;I-ojo forto g.
+1817-1;Jiesios plentas
+2480-1;Julijanavos g.
+1906-1;Jurbarko g.
+2486-1;Jurginiškiai
+114-1;K.  Petrausko g.
+2483-1;K.Dulksnio g.
+111-1;Kalniečių poliklinika
+1884-1;Kaniukai
+2010-1;Karaliaus Mindaugo pr.
+2408-1;Kaunas
+4819-1;Kauno "Ledo arena"
+3887-1;Kauno klinikinė ligoninė
+4092-1;Kauno pilies aikštelė
+1878-1;Kauno pilis
+6068-1;Kauno tiltai
+6057-1;Kausta
+3882-1;Kazliškiai
+2473-1;Kęstučio g.
+5975-1;Klinikos
+5966-1;Laisvės alėja
+1854-1;Lazdijų g.
+2122-2;Linkuvos g.
+3883-1;Liucijanavos g.
+6069-1;Lytagra
+2487-1;Mituvos g.
+634-1;Mosėdžio g.
+4904-1;Murava
+2476-1;Muzikinis teatras
+6059-1;Naktigonės g.
+6061-1;Neveronių g.
+4099-1;Onkologijos ligoninė
+4084-1;Pakalnės g.
+5985-1;Pakraščio g.
+3888-1;Palemono g.
+1815-2;Panemunė
+1879-1;Panerių g.
+2099-1;Panerys
+3879-1;Partizanų g.
+6056-1;Pašilės g.
+1877-1;Pėsčiųjų tiltas
+2097-1;Pikulio g.
+2011-1;Požeminė perėja
+2484-1;Ramybės g.
+1881-1;Raudondvario pl.
+3886-1;Respublikinė Kauno ligoninė
+3880-1;Rokai
+4089-1;Rokakiemio g.
+2236-1;Rokeliai
+2475-1;S. Daukanto g.
+6060-1;S.Nėries muziejus
+5981-1;S.Žukausko g.
+3885-1;Sargėnai
+2098-1;Šiaurinio aplinkelio tiltas
+4961-1;Šilainių pl
+635-1;Šilainių poliklinika
+2482-1;Sodai
+2143-1;Suvalkiečių g.
+2123-1;Šv.Kazimiero progimnazija
+1816-1;Švč.Jėzaus Širdies bažnyčia
+4203-1;Švyturio g.
+3889-1;Tabariškiai
+1815-1;Tilto g.
+5978-1;Topolis
+2485-1;Tulpių g.
+3890-1;Tvenkinio g.
+5979-1;Ukmergės g.
+6066-1;Upytės g.
+2488-1;Utenos g.
+5984-1;V.Lansbergio-Žemkalnio g.
+2212-1;Vaidoto g.
+1812-1;Vaišvydava
+2142-2;Valstybinė mokesčių inspekcija
+4202-1;Varnių g.
+2478-1;Vilniaus g.
+4114-1;Vinčų g.
+6064-1;Viržių g.
+1882-1;Visvaldės g.
+2026-1;Vytauto Didžiojo tiltas
+4922-1;Žalgirio arena
+5977-1;Žeimenos g.
+2458-1;Žirgynas
+1814-1;Zuikinė
+1810-1;19-as kilometras
+2029-1;1-ieji Bernatoniai
+2157-1;1-ieji Girininkai
+2061-1;1-ieji Kačergiai
+2075-1;1-ieji Kaniūkai
+52-1;1-ieji Mastaičiai
+2033-1;1-ieji Naujatrobiai
+1887-1;1-ieji Netoniai
+2062-1;1-ieji Pakapiai
+2118-1;1-ieji Pažėrai
+5986-1;1-ieji Ramučiai
+5991-1;1-ieji Sergeičikai
+2457-1;1-ieji sodininkai
+2030-1;2-ieji Bernatoniai
+2158-1;2-ieji Girininkai
+2080-1;2-ieji Kaniūkai
+1-1;2-ieji Mastaičiai
+1480-1;2-ieji Netoniai
+1875-1;2-ieji Pažėrai
+1820-1;2-ieji Rokai
+5992-1;2-ieji Sergeičikai
+2101-1;2-ieji sodininkai
+2103-1;3-ieji sodininkai
+4923-1;A.Mitkaus pagrindinė mokykla
+485-1;Akademijos miestelis
+409-1;Altoniškiai
+2107-1;Andriuškoniai
+1893-1;Antalkiai
+1903-1;Antkalniai
+2226-1;Arlaviškės
+2225-1;Arlaviškės 2
+2223-1;Arlaviškių kr.
+3245-1;Artojų g.
+2125-1;Aukščių g.
+4908-1;Ąžuolas
+578-1;Babtai
+2074-1;Babtai centras
+2472-2;Babtų gimnazija
+2470-1;Babtų institutas
+2073-1;Babtų kryžkelė
+577-1;Babtų vienkiemis
+2127-1;Bajorų g.
+5997-1;Balio Buračio gimnazija
+2207-1;Baravai
+2139-1;Barsūniškiai
+2116-1;Bartupė
+1891-1;Batniava
+1874-2;Bažnyčia
+1900-1;Bernoriškiai
+6023-2;Biblioteka
+2114-1;Bijūnai
+4902-1;Bijūnų g.
+2031-1;Biliūnai
+2022-1;Biliūno g.
+53-1;Biruliškės
+2043-1;Bitvanas
+2464-1;Bivyliai
+2156-1;Bliovai
+2054-1;Boniškiai
+3052-1;Braziūkai
+2204-1;Buivydai
+2059-1;Butkūnai
+1905-1;Čekiškė
+580-1;Cinkiškiai
+2140-1;D.Lapių kaimo kapinės
+4077-1;Darželis
+2539-1;Daržų g.
+2069-1;Dasiūnai
+2208-1;Daučioniai
+1901-1;Daugėliškiai
+2456-1;Daugėliškių centras
+1885-1;Didvyriai
+2137-1;Didžiosios Lapės
+2155-1;Dievogala
+2228-1;Dobilija
+2227-1;Dobilija 2
+2093-1;Dokiai
+4101-1;Domeikava
+2126-1;Domeikava seniūnija
+5988-1;Dovalgonių g.
+2106-1;Drąseikiai
+1859-1;Drebulinė
+2213-1;Dubravai
+2019-1;Durpyno
+2041-1;Eigirgala
+2202-1;Eikščiai
+1904-1;Eikščių kryžkelė
+1809-1;Elnių eiguva
+4082-1;Erdvės g.
+2023-1;Ežerėlis
+6012-1;Fitsuot
+2086-1;Gaigalai
+2206-1;Gailiūnai
+576-1;Gailiušiai
+403-1;Gaižėnėliai
+6074-1;Garažų g.
+1856-1;Garliava
+2231-1;Gaubatrakis
+2094-1;Gegužėnai
+4871-1;Gėlių g
+4871-2;Gėlių g.
+2217-1;Gervėnupis
+2027-1;Gimnazija
+4078-1;Ginkluotės gamykla
+572-1;Giraitė
+1824-1;Girininkai
+1825-1;Girininkai, galinis punktas
+4083-1;Griežlės g.
+2220-1;Grybas (Tursonas)
+2211-1;Guknė
+5990-1;Hella
+5989-1;Hollister
+2046-1;Ibėnai
+4076-1;Ievų g.
+1858-1;Ilgakiemis
+3244-1;Ireniškiai
+2048-1;Jackiškiai
+2461-1;Jadagonys
+2038-1;Jagminiškiai
+1894-1;Jaučakiai
+1895-1;Jaučakių kryžkelė
+2162-1;Jokavai
+1855-1;Jonučiai
+4917-1;Juodoniai
+2468-1;Juodoniai žemutiniai
+2049-1;Juozapava
+3926-1;Juozapavos kapinės
+3-1;Juragiai
+2151-1;Jurginų g.
+2013-1;Kačerginė
+2014-1;Kačerginės miškas
+2063-1;Kačergių kryžkelė
+2224-1;Kadagių slėnis
+4910-1;Kalinava
+1888-1;Kalnyčiai
+2113-1;Kampiškiai
+579-1;Kaniūkai
+2466-1;Kapciuniškės
+2088-1;Kapeliai
+2128-1;Kapinaitės
+6071-1;Kapinės
+3243-1;Karkazai
+56-1;Karmėlava I
+58-1;Karmėlava II
+4091-1;Kaštonų g.
+2021-1;Kauno g.
+57-1;Kauno oro uostas
+2145-1;Kauno šiltadaržiai
+6070-1;Kauno tiekimas
+2044-1;Kazimierava
+2042-1;Kėkštynė
+5995-1;Keramikų g.
+4090-1;Klevų g.
+406-1;Kluoniškiai
+2016-1;Kluoniškis
+2215-1;Kol. sodai 1
+404-1;Kol.sodai
+2216-1;Kol.sodai 2
+6021-1;Krašto g.
+3242-1;Kreidos g.
+4956-1;Kriaušių g.
+2214-1;Kryžius
+2465-1;Kudrėnai
+1379-1;Kulautuvos centras
+1380-1;Kulautuvos galinis punktas
+1378-1;Kulautuvos grybas
+1377-1;Kulautuvos kapinės
+1080-1;Kulautuvos kryžkelė
+4918-1;Kulautuvos ligoninė
+411-1;Kuras
+410-1;Kuras I
+2132-1;Lapės Tujų g.
+2131-1;Lapės Tvenkinių g.
+2136-1;Lapių kaimas
+2102-1;Lapių kr.
+3056-1;Lapių seniūnija
+581-1;Laučynė
+2203-1;Lauksvydai
+2095-1;Lebedžiai
+4815-1;Ledos g.
+4080-1;Ledos kapinės
+413-1;Lekėčiai I
+6018-1;LEZ 1
+6019-1;LEZ 2
+6020-1;LEZ 3
+1860-1;Linksmakalnis
+2090-1;Lipikiškiai
+2092-1;Liučiūnai
+4899-1;Liučiūnų mokykla
+55-1;Margava
+2229-1;Margininkai
+2230-1;Margininkų kr.
+5993-1;Martinavos kapinės
+2104-1;Masteikiai
+2133-1;Mažosios Lapės
+2152-1;Medeinos g.
+4926-1;Miestelėnų g.
+2087-1;Miškalaukis
+1886-1;Miškiniai
+2020-1;Miško g.
+400-1;Mitkūnai
+2112-1;Mokslo g.
+1889-1;Mozūriškiai
+2124-1;Muitinės g.
+4916-1;Muniškiai
+2467-1;Muniškiai žemutiniai
+4915-1;N.Muniškiai centras
+54-1;Narėpai
+3057-1;Naujamiestis
+2034-1;Naujatrobiai
+574-1;Naujieji Muniškiai
+1892-1;Naujiena
+5961-1;Neries g.
+6072-1;Neveronių kapinės
+6022-1;Neveronių žiedas
+6063-1;Neveronys
+2146-1;Noreikiškės
+408-1;Nova
+1811-1;Obelynas
+2117-1;Pabartupis
+5994-1;Pabiržis
+2115-1;Padainupys
+2037-1;Padauguva
+1857-1;Pagiriai
+2089-1;Pagiriai (Čekiškės kryptis)
+2071-1;Pagynė
+2072-1;Pagynė kontora
+3925-1;Pakalnės g.
+2138-1;Pakalniškiai
+2068-1;Pakapiai
+2161-1;Palazdonys
+1826-1;Palemonas
+2076-1;Panevėžiukas
+2077-1;Panevėžiukas centras
+2078-1;Panevėžiuko ambulatorija
+407-1;Papiškiai
+1821-1;Paražėliai
+5962-1;Parko g.
+2170-1;Partikai
+2471-1;Paštas
+2233-1;Patamušėlis
+6062-1;Pervaža
+2084-1;Piepaliai
+2082-1;Piepalių kryžkelė
+4814-1;Pievų g.
+4813-1;Piliakalnio g.
+1805-1;Piliuona
+1807-1;Piliuona 1
+1806-1;Piliuona 2
+1808-1;Piliuonos kryžkelė
+402-1;Pypliai
+2153-1;Poderiškiai
+2154-1;Poderiškių kompleksas
+2024-1;Preišiogala
+2454-1;Prienai
+2053-1;Puikoniai
+2205-1;Purviškiai
+2209-1;Purviškiai žemutiniai
+5999-1;Pušyno g.
+2129-1;Radikiai
+1902-1;Radviliškiai
+2085-1;Ramonai
+5987-1;Ramučių kultūros centras
+6075-1;Rasos g.
+5967-1;Rato g.
+2036-1;Raubatoniai
+2035-1;Raubatonių mokykla
+4921-1;Raudondvario medelynas
+1129-1;Raudondvaris
+1822-1;Ražėliai
+4925-1;Ražiškiai
+398-1;Ringaudai
+2148-1;Ringaudų pradinė mokykla
+2210-1;Ringovė
+4924-1;Rinkūnai
+4081-1;Ryto g.
+2234-1;Rokeliai 2
+2235-1;Rokeliai bendrovė
+1819-1;Rokų seniūnija
+2039-1;Romaškiai
+1890-1;Ruponioniai
+2100-1;Saliai
+4907-1;Šaltpusnių g.
+2105-1;Šančiai
+2111-1;Sankryža
+2135-1;Šatijai
+1899-1;Saulėtekiai
+573-1;Sausinė
+5964-1;SB "Atžala"
+4115-1;SB "Baldininkas"
+2141-1;SB "Didžiosios Lapės"
+4913-1;SB "Granitas"
+4914-1;SB "Lokomotyvas"
+2134-1;SB "Mažosios Lapės"
+1909-1;SB "Technika"
+4912-2;SB "Vanaginė"
+4912-1;SB "Vanagynė"
+2015-1;SB "Vejuona"
+2079-1;SB "Vija"
+3241-1;Seniava
+4883-1;Seniūnija, Linksmakalnis
+5965-1;Senosios Karmėlavos kapinės
+2462-1;Šėtijai
+4100-1;Šilelio g.
+5996-1;Šiltnamiai
+2534-1;Šiltnamių g.
+575-1;Sitkūnai
+4116-1;Sitkūnai, Radistų g.
+3053-1;Šiuliai
+2189-1;Skrebėnai
+2052-1;Skrynės
+2130-1;Smiltynai
+6073-1;Sodų bendrija "Tiekėjas"
+2459-1;Sriptauja
+2469-1;Stabaunyčius
+2-1;Stanaičiai
+2047-1;Stankūnai
+2144-1;Stirnų g.
+399-1;Tabariškės
+2150-1;Tabariškiai
+1804-1;Taurakiemis
+4927-1;Titnago g.
+59-2;Turžėnai
+2025-1;Universiteto bendrabučiai
+6026-1;Universiteto g.
+2463-1;Užliedžiai
+2060-1;Užumiškiai
+6076-1;Vaidvilės g.
+1823-1;Vainatrakis
+2045-1;Valerava
+2051-1;Vandžiogala
+2050-1;Vandžiogalos girininkija
+2081-1;Varekoniai
+4909-1;Varyklos g.
+5963-1;Varluva
+2801-2;Varžupio g.
+2147-1;VDU Žemės ūkio akademija
+2032-1;Vejuona
+1876-1;Vienybės g.
+2012-1;Vigiai
+4079-1;Vijukai
+2018-1;Vilimai
+2070-1;Vilkėnai
+838-1;Vilkija
+1896-1;Vilkija viršutinė
+1898-1;Vilkijos bendrovė
+1897-1;Vilkijos filialas
+412-1;Vincentavas
+401-1;Virbališkės
+2221-1;Viršužiglio reb.ligoninė
+2222-1;Viršužiglis
+2083-1;Vosiškiai
+2040-1;Voškoniai
+2028-1;Žalgirio g.
+405-1;Zapyškis
+837-1;Žemoji Panemunė
+4906-1;Žiemkelio g.
+2017-1;Žvyrduobė
+530-1;Antanavas
+11-1;Ąžuolų Būda
+529-1;Gaisriai
+10-1;Gudeliai
+3049-1;Karčrūdė
+4120-1;Kazlų Rūda
+4117-1;Mažoji Senažiškė
+531-1;Piliūnai
+4118-1;S.Daukanto g.
+3051-1;Sarapinai
+3048-1;Sasnava
+12-1;Selema
+4119-1;V.Borisevičiaus g.
+3050-1;Viliūšiai
+1268-1;"Centras"
+2064-1;2-ieji Kačergiai
+1122-1;Akademija
+2315-1;Apytalaukis
+1269-1;Aristava
+2453-1;Aukštdvaris
+1271-1;Aukštieji Kapliai
+1128-1;Bajėnai
+2193-1;Būdai I
+2192-1;Būdai II
+1123-1;Dotnuva
+1265-1;Galulaukiai
+2058-1;Gelnai
+2312-1;Gineitai
+1118-1;Gudžiūnai
+1125-1;Josvainiai
+583-1;Juodgiris
+1374-1;Kadagių  g.
+1375-1;Kalnaberžė
+1127-1;Kampai
+1267-1;Kėdainiai
+1124-1;Keleriškiai
+2313-1;Kruostas
+2065-1;Labūnava
+2194-1;Lančiūnava
+2452-2;Langakiai
+584-1;Lesčiukai
+1257-1;Lioliai
+1126-1;Maleikoniai
+1121-1;Mantviliškis
+4940-1;Medekšiai
+2057-1;Nociūnai
+1253-1;Okainiai
+1254-1;Paežeriai
+2191-1;Pagilupys
+2066-1;Pašiliai
+1252-1;Pavermenys
+2056-1;Pėdžiai
+2067-1;Pelėdnagiai
+1256-1;Piliakalnis
+1120-1;Piliamantas
+1119-1;Pilioniai
+2311-1;Šateniai
+1258-1;Šėta
+1376-1;Sirutiškis
+2197-1;Skerdikai
+2310-1;Šlaitkalnis
+1372-1;Spigučiai
+2195-1;Stasinė
+2196-1;Stebuliai
+1373-1;Sūriškiai
+1371-1;Surviliškis
+2309-1;Šventybrastis
+1270-1;Taučiūnai
+1255-1;Taujankai
+2314-1;Tiskūnai
+1251-1;Truskava
+1370-1;Užupė
+1266-1;Vilainiai
+582-1;Vincentava
+2308-1;Zavišinė
+2055-1;Žiogaičiai
+1095-1;Aukštiškiai
+1570-1;Beržėnai
+1061-1;Bijotė
+1585-1;Gailiai
+4898-1;Gaugariai
+1051-1;Griniai
+1055-1;Jauniškė
+1589-1;Junkilai
+4985-1;Kelias į Laikšes
+1065-1;Kelmė
+1566-1;Kolainiai
+1057-1;Kryžbarkas
+1060-1;Kunigiškė
+1094-1;Kuršiai
+4897-1;Laikšių gyvenvietė
+4984-1;Laiškalnis
+1586-1;Lioliai
+1584-1;Lyduvėnų kelias
+1067-1;Maironiai
+1066-1;Maneikiai
+1027-1;Mateikiai
+4891-1;Miežaičiai
+1591-1;Minupiai
+2415-1;Pagryžuvys
+1587-1;Pakėvis
+1052-1;Pakražantis
+1054-1;Paprūdžiai
+4893-1;Paramotis
+4896-1;Pašoniai
+4569-1;Paštas
+1575-1;Pašvinė
+1053-1;Pluskiai
+1056-1;Posūkis į Kelmę
+4892-1;Šaltiniai
+1572-1;Šaukėnai
+1096-1;Šedbarai
+1059-1;Šilo Pavėžupis
+1571-1;Slabada
+1573-1;Spaudžiai
+1058-1;Suvartuva
+4890-1;Švilpiškė
+1068-1;Tytuvėnai
+1569-1;Ušnėnai
+1567-1;Užventis
+1588-1;Vaiguva
+1565-1;Veniai
+4888-1;Verpena
+4889-1;Verpenos ūkis
+1568-1;Volungiai
+1590-1;Želviai
+4957-1;Akropolis (Klaipėda)
+1474-1;Klaipėda
+1475-1;Miesto ligoninės st.
+1409-4;Mokyklos
+3016-1;Smiltynė
+770-1;Universiteto
+3017-1;Alksnynė
+773-1;Antkoptis
+775-1;Balkalnis
+771-1;Dauparai
+1470-1;Dituva
+778-1;Endriejavas
+3023-1;G.D.Kuverto plento sankryža
+772-1;Gargždai
+3018-1;Gintaro įlanka
+768-1;Graudužiai
+1473-1;Jakai
+3012-1;Juodkrantė
+1549-1;Jurjonai
+1476-1;Kalotė
+779-1;Kapstatai
+769-1;Kopūstai
+1477-1;Kretingalė
+1471-1;Lingiai
+3892-1;Naujoji Perkėla
+3015-1;Nida
+3793-1;Nidos PKP
+780-1;Patyris
+1551-1;Perkūnai
+3013-1;Pervalka
+3021-1;Pervalka (sankryža)
+3014-1;Preila
+3022-1;Preila (sankryža)
+1472-1;Priekulė
+3019-1;Raganų kalnas
+1550-1;Šakiniai
+777-1;Šilėnai
+1469-1;Šilininkai
+1478-1;Šlikiai
+3024-1;T.Mano muziejus
+774-1;Vėžaičiai
+776-1;Žemguliai
+3020-1;Žvejų gyvenvietė
+1493-1;Aukštkalviai
+760-1;Auksūdis
+1499-1;Barzdžiai
+758-1;Benaičiai
+767-4;Būtingė, PKP
+761-1;Darbėnai
+1485-1;Daudėnai
+794-1;Dvaralis
+795-1;Erlėnai
+1535-1;Gaudučiai
+757-1;Įpiltis
+764-1;Joskaudai
+1496-1;Kalnalis
+1531-1;Kartena
+1491-1;Klibiai
+1489-1;Kretinga
+1532-1;Kretingos MSV
+1494-1;Kūlupėnai
+1488-1;Kurmaičiai
+1497-1;Laiviai
+763-1;Lazdininkai
+1495-1;Nasrėnai
+759-1;Nausėdai
+1490-1;Padvariai
+762-1;Pasertupis
+792-1;Reketė
+1534-1;Rubuliai
+793-1;Salantai
+1487-1;Senkai
+1533-1;Slučkai
+1486-1;Tūbausiai
+1479-1;Vydmantai
+1492-1;Voveraičiai
+1482-1;Želviai
+765-1;Žibininkai
+1215-1;Aleksandrija
+1207-1;Aluotos
+1217-1;Byčiai
+1206-1;Bugailiškiai
+1291-1;Čiovydžiai
+1205-1;Daukai
+1292-1;Duoniūnai
+1203-1;Gaigalai
+1333-1;Gyvakarai
+2494-1;Juodžiūnai
+1204-1;Jurkštai
+1295-1;Kandrėnai
+1220-1;Karaliūnai
+1289-1;Kikonys
+1211-1;Kinderiai
+1334-1;Kupiškis
+1296-1;Miškonys
+1293-1;Naiviai
+1202-1;Nociūnai (Kupiškio r.)
+1218-1;Noriūnai
+1219-1;Noriūnų MSV
+1201-1;Pajuodbalys
+1212-1;Papiliai
+1221-1;Paulianka
+1332-1;Salamiestis
+1213-1;Šepeta
+1210-1;Šimonys
+1294-1;Skapiškio glž.st.
+1318-1;Skapiškis
+1222-1;Skverbai
+1223-1;Skverbai II
+1290-1;Slavinčiškis
+1214-1;Šnipeliškis
+1216-1;Stičkalnis
+1288-1;Subačiaus glž.st.
+1316-1;Tvirai
+1317-1;Vengriškis
+1209-1;Visėtiškės
+156-1;Abarauskai
+165-1;Agariniai
+334-1;Aštrioji Kirna
+332-1;Aštrioji Kirsna
+357-1;Avižieniai
+333-1;Bagatelius
+330-1;Būdvietis
+37-1;Bukta
+163-1;Burakavas
+356-1;Buteliūnai
+139-1;Cijūniškė
+3845-1;Cimaniūnai
+44-1;Čivonys
+148-1;Dainaviškiai
+335-1;Dzūkai
+136-1;Gervėnai
+205-1;Grabauka
+43-1;Gudeliai Lazdijų r.
+33-1;Gudeliškė
+346-2;Išlandžiai
+162-1;Janėnai
+154-1;Juškonys
+45-1;Kalveliai
+152-1;Kapčiamiestis
+352-1;Karužai
+353-1;Kasteliškė
+349-1;Krisnelė
+30-1;Krosna
+31-1;Krosna prie mokyklos
+32-1;Krosnėnai
+40-1;Kukliai
+42-1;Laibagaliai
+46-1;Lapūkas
+38-1;Lazdijai
+358-1;Mikabaliai
+348-1;Mikniškai
+47-1;Miškų urėdija
+350-1;Natalina
+166-1;Nemajūnai
+41-1;Neravai Lazdijų r.
+138-1;Okta
+151-1;Padumbliai
+336-1;Pagrūdai
+331-1;Paliūnai
+36-1;Papečiai
+160-1;Paročkė
+147-1;Pateriai
+149-1;Paulenka
+344-1;Pėdiškiai
+159-1;Ročkiai
+34-1;Roliai
+351-1;Rudamina
+146-1;Šadžiūnai Lazdijų r.
+158-1;Sankryža link Druskininkų
+140-1;Šarkelės
+135-1;Seiliūnai
+39-1;Seinų sankryža
+137-1;Seirijai
+360-1;Seirijų sankryža
+150-1;Semoškai
+345-1;Šeštokai
+354-1;Slavantai
+355-1;Spartai
+3844-1;Stračiūnai
+161-1;Straigiai
+164-1;Šventežeris
+167-1;UAB "Akmuva"
+153-1;Valentai
+3843-1;Varnėnai
+29-1;Vartai
+48-1;Veisiejai
+35-1;Verstaminai
+155-1;Viktarinas
+157-1;Vilkininkai
+2799-1;Kalviai PKP
+5540-1;Smėlynė muitinė
+20-1;"Stadionas"
+1975-1;Apšrūtai
+478-1;Bliuviškiai
+25-1;Bukta
+26-1;Butkos girininkija
+51-1;Degalinė
+6039-1;Degučiai
+17-1;Dženčialauka
+527-1;Gavaltuva
+3906-1;Grybinė
+182-1;Gudinė
+177-1;Gudiškiai
+312-1;Gulbiniškiai I
+3907-1;Gustabūdis
+1973-1;Igliauka
+175-1;Igliaukos kryžkelė
+180-1;Igliškėliai
+346-1;Išlandžiai
+481-1;J.Dailidės g.
+16-1;Kantališkiai
+3908-1;Katiliškiai
+570-1;Kazliškiai
+181-1;Kermošinė
+24-1;Liudvinavo kryžkelė
+179-1;Margava
+21-1;Marijampolė
+183-1;Meškėnai
+310-1;Meškučiai
+479-1;Miškų urėdija
+3909-1;Mokolai
+3905-1;Mozūriškės
+342-1;Naujiena
+528-1;Nendriniai
+22-1;Netičkampis
+477-1;Ožkasviliai
+176-1;Padvariškiai
+1974-1;Palios
+178-1;Pamargiai
+23-1;Paparčio sodai
+185-1;Patašinė
+184-1;Patašinė II
+50-1;Paželsviai
+189-1;PC "Garnys"
+19-1;Pietariai
+318-1;Piliakalnio kelias
+18-1;Puskelniai
+28-1;Ramanavas
+174-1;Šakališkiai
+14-1;Sasnava
+343-1;Strazdai
+15-1;Surgučiai
+480-1;Tarpučių g.
+187-1;Trakiškiai I
+186-1;Trakiškiai II
+188-1;Triobiškiai
+311-1;Turgalaukis
+13-1;Vinčai
+526-1;Vinčų gelž.st.
+27-1;Želsvelė
+6038-1;Skaičiūnai I
+6037-1;Skaičiūnai II
+1610-1;Balėnos
+1611-1;Bružai
+729-1;Bugeniai
+728-1;Bugenių mokykla
+1600-1;Dagiai
+1619-1;Daubiškiai
+1517-1;Grūstė
+1516-1;Ivoniškė
+726-1;Jautakiai
+1599-1;Kalnijos
+721-1;Ketūnai
+1615-1;Krakiai
+727-1;Linsknakiai
+1614-1;Mažeikiai
+4540-1;Miliai
+4539-1;Miliai II
+1613-1;Miškų ūkis
+4541-1;Naikiai
+720-1;Nausodė
+734-1;Obeliškiai
+718-1;Paežerė
+4538-1;Pagalbinis ūkis
+2800-1;Pagardė
+1618-1;Palnosai
+722-1;Pašerkšnė
+1609-1;Pievėnų kryžkelė
+731-1;Repšiai
+719-1;Seda
+1598-1;Sedos priemiestis
+730-1;Šerkšnė
+723-1;Šerkšnėnai
+1612-1;Spurganai
+733-1;Sugaudžiai
+724-1;Tirkšliai
+1518-1;Tiškai
+725-1;Troškučiai
+717-1;Uikiai
+732-1;Ukrinai
+1519-1;Varduva
+1617-1;Viekšniai
+1616-1;Viekšniai paviljonas
+1601-1;Žadeikiai
+735-1;Židikai
+993-1;Alanta
+1150-1;Alkūnai
+908-1;Andrioniškis
+994-1;Antakščiai
+988-1;Antašiškės
+1159-1;Arnėnai
+1158-1;Arnionys
+991-1;Avilčiai
+1185-1;Balninkai
+947-1;Bebrusai
+1178-1;Bekupė
+945-1;Bijūtiškis
+914-1;Bitėnai
+906-1;Čiulėnai
+905-1;Čivyliai
+1188-1;Dapkūniškiai
+1163-1;Dūdėnai
+1141-1;Duobužiai
+903-1;Ežerys
+1147-1;Gališkės
+1152-1;Garšvėnai
+918-1;Giedraičiai
+1145-1;Gojus
+990-1;Inketris
+1149-1;Inturkė
+948-1;Jaurai
+1155-1;Joniškis
+987-1;Juočiai
+907-1;Juodėnai
+2493-1;Karalinava
+915-1;Kazokai
+1146-1;Kirneilė
+919-1;Kraujaleidžiai
+1153-1;Kūmonys
+1187-1;Laumenka
+911-1;Luokesa
+902-1;Mažeikiai Molėtų r.
+910-1;Melioratorių
+986-1;Mindūnai
+989-1;Miškiškiai II
+909-1;Molėtai
+992-1;Padegsnys
+1143-1;Pagrabuosčiai
+912-1;Pakryžė
+1144-1;Palukštinė
+1139-1;Petrauskai
+1140-1;Pikčiūnai (Molėtų r.)
+942-1;Pivoriūnai
+1180-1;Pusnė
+916-1;Radžiūnai
+943-1;Rudokai
+1179-1;Šiupieniai
+1157-1;Skardžiai
+1148-1;Sklėriškės
+913-1;Skrebuliai
+944-1;Smailiai
+949-1;Smėlinka
+1156-1;Stebuliai
+1154-1;Stebuliškiai
+985-1;Stirniai
+904-1;Suginčiai
+1151-1;Ūta
+1142-1;Videniškiai
+984-1;Vidugiris
+917-1;Zanėnai
+946-1;Žiediškė
+1417-1;Anužiai
+2491-1;Berštininkai
+1403-1;Lumpėnai
+1405-1;Mikytai
+1400-1;Mociškiai
+1416-1;Pagėgiai
+1402-1;Palumpiai
+1415-1;Panemunė
+1406-1;Piktupėnai
+1419-1;Rukai
+1418-1;Šilgaliai
+1420-1;Stoniškiai
+1414-1;Strepeikiai
+1404-1;Trakininkai
+1407-1;Vidgiriai
+1401-1;Vilkyškiai
+1399-1;Žukai
+1398-1;Žukų kryžkelė
+1728-1;Akmenėliai
+1717-1;Akmenėliai II
+4825-1;Aleknaičiai
+4874-1;Bagdonaičiai
+4875-1;Beinoraičiai
+4882-1;Binėnai
+4829-1;Bitaičiai
+2257-1;Butniūnai
+1691-1;Dargužiai
+2258-1;Degėsiai
+1690-1;Degučiai
+4838-1;Degučiai miestelis
+1719-1;Diržiai
+1730-1;Dovainiškės
+1699-1;Dūčiai
+4831-1;Dvariškiai
+1704-1;Gaubiai
+4880-1;Gedminai
+2252-1;Gedučiai I
+2256-1;Gedučiai II
+1701-1;Gegiedžiai
+1725-1;Girbutkiai
+2259-1;Guostagalis
+4839-1;Ilgoji lova
+1726-1;Impolė
+4876-1;Isoniai
+1734-1;Jasvilaičiai
+5973-1;Jovarai
+4827-1;Juknaičiai
+4870-1;Karašilis I
+4849-1;Karašilis II
+4824-1;Kareiviškis
+1732-1;Kauksnujai
+4879-1;Kazokai
+1727-1;Kol sodai
+1694-1;Kundročiai
+4835-1;Kutaičiai
+1733-1;Lapgirys
+1718-1;Lauksodis
+4823-1;Linksmučiai
+1698-1;Linkuva
+4823-2;Linskmučiai
+4828-1;Lygumai
+2284-1;Mediniškiai
+4837-1;Mickūnai
+4881-1;Mikniūnai
+1724-1;Mūšos komp.
+2253-1;Noreikai
+1696-1;Noreikoniai
+2288-1;Paežeriai
+1695-1;Pakruojis
+4878-1;Pamūšis
+2260-1;Papušai
+1703-1;Pašvitinys
+4833-1;Pavėzgiai I
+4834-1;Pavėzgiai II
+1706-1;Peluodžiai
+1697-1;Petrašiūnai
+2254-1;Plonėnai
+1693-1;Poškiečiai
+1721-1;Puodžiūnai
+1707-1;Rimdžiūnai
+1705-1;Rimšoniai
+2287-1;Rozalimas
+2286-1;Rozalimas miestelis
+1723-1;Ruponiai
+4830-1;Sereikiai
+4800-1;Šinkaučiškis
+1702-1;Sodeliškiai
+4836-1;Stačiūnai
+2255-1;Statkevičiai
+1720-1;Steigvilai
+1731-1;Šukioniai
+4877-1;Sukmedis
+4801-1;Tarvydai
+1700-1;Triškoniai
+1722-1;Ūdekai
+1692-1;Užubeliai
+2285-1;Vaitkūnai
+4832-1;Vėbariai
+4826-1;Vilūnaičiai
+1716-1;Žeimelis
+1511-1;Liepojos plentas
+1481-1;Palanga
+767-1;Palangos oro uostas
+766-1;Šventoji
+1224-1;Akmeniai
+2187-1;Antanava
+1249-1;Aukštadvaris (Panevėžio r.)
+2304-1;Barinė
+1246-1;Barklainiai
+2280-1;Berčiūnai
+2273-1;Bernatoniai
+1232-1;Bernotai
+4709-1;Beržynė
+1245-1;Bistrampolis
+1227-1;Breiviškiai
+1348-1;Budrionys
+2306-1;Burveliai
+2305-1;Daniliškis
+1250-1;Daukšynė
+2270-1;Gailiūnai
+2275-1;Gegužinė
+1234-1;Girininkija
+1350-1;Gitėnai
+2302-1;Gringalia
+2281-1;Gustonys
+1362-1;Iciūnai
+1228-1;Karsakiškis
+4806-1;Kaubariškio sodai
+1287-1;Kaubariškis
+2307-1;Kazokai
+2188-1;Klebonai
+4712-1;Klimbalė
+1230-1;Kol. sodai
+1365-1;Krekenava
+1366-1;Krekenava miestelis
+4803-1;Kuriai
+2183-1;Laukagaliai
+4708-1;Lebeniškiai
+1239-1;Lepšiai
+1361-1;Levaniškis
+1360-1;Levaniškis II
+1354-1;Liūdynė
+1367-1;Mairiškiai
+2178-1;Marijamboras
+2269-1;Medikoniai
+4710-1;Medžiūnai
+1351-1;Miežiškiai
+2184-1;Mikėnai
+1356-1;Molainiai
+2177-1;Narbutai
+4707-1;Natiškiai
+1231-1;Naujikai
+4805-1;Nauradai
+2190-1;Nendrytė
+1349-1;Nevėžis
+4804-1;Niaukoniai
+1347-1;Nibragalys
+2172-1;Padambė
+1229-1;Pagėgala
+1226-1;Palaukiai
+1233-1;Paliūniškis
+4714-1;Paliūniškis II
+2271-1;Pamiškės VKN
+2200-1;Pašiliai I
+1238-1;Pažagieniai
+2282-1;Perekšliai
+2303-1;Pilipusčiai
+2274-1;Piniava
+1352-1;Pučekų kelias
+2175-1;Putiliškiai
+1357-1;Ragaudžiai
+2174-1;Raguva
+2173-1;Raguvos kr.
+1248-1;Ramygala
+2198-1;Ramygalos KMK
+1247-1;Rimaisai
+1364-1;Rodai
+1363-1;Rodai II
+2185-1;Savivaldybė
+1240-1;Šilagalys
+1285-1;Šilai
+1241-1;Šilaičiai
+1242-1;Šilaičių kapinės
+2272-1;Skaistgiriai
+1369-1;Skaistkalnis
+1368-1;Slabada
+2283-1;Smilgiai
+2498-1;Stanioniai
+1286-1;Staniūnai
+1353-1;Steponiškis
+4711-1;Stumbriškis
+1225-1;Tiltagaliai
+1244-1;Uliūnai
+1243-1;Uliūnai II
+1358-1;Upytė
+4802-1;Ūtėnai
+2199-1;Užkalniai
+2186-1;Vadokliai
+2414-1;Vaišvilčiai
+1235-1;Vaivadai
+1355-1;Velžys
+4713-1;Vilkapiūviai
+1359-1;Vinkšnėnai
+9255-1;F. Vaitkaus st.
+1237-1;Panevėžys
+1238-2;Pažagieniai
+1236-1;S.Kerbedžio g.
+2201-1;Senamiesčio g.
+2244-1;Ąžuolpamūšė
+2242-1;Dagilynė
+2262-1;Joniškėlis
+2261-1;Joniškėlis miestelis
+2278-1;Jurgėnai
+2241-1;Kraštai
+2265-1;Maldučioniai
+2268-1;Mikoliškis
+2251-1;Nairiai
+2263-1;Nakiškiai
+2248-1;Noriai
+2264-1;Pamažupiai
+2245-1;Papyvesiai
+2246-1;Pasvalys
+2277-1;Pumpėnai
+2267-1;Pušalotas
+2243-1;Raubonys
+6000-1;Saločiai muitinė
+2276-1;Sereikoniai
+2279-1;Talačkoniai
+2247-1;Tetirvinai
+2249-1;Titkoniai
+2266-1;Valmoniai
+2250-1;Vaškai
+1530-1;Aleksandravas
+1528-1;Alksnėnai
+1522-1;Alsėdžiai
+788-1;Didvyčiai
+1526-1;Gelindėnai
+1525-1;Grumbliai
+1542-1;Juodeikiai
+1547-1;Kuliai
+1536-1;Lieplaukalė
+1540-1;Mardosai
+1546-1;Mažieji Mostaičiai
+786-1;Milašaičiai
+1539-1;Nausodis
+1524-1;Paežerė
+1529-1;Palūkščiai
+787-1;Plungė
+787-3;Plungė, J.Tumo-Vaižganto g. 81
+1545-1;Rapštaičiai
+791-1;Šateikiai
+785-1;Stalgėnai
+1527-1;Staneliai
+1541-1;Stonaičiai
+1548-1;Tilvikai
+1544-1;Vieštovėnai
+1543-1;Vieštovėnai I
+1521-1;Vilkai
+789-1;Vydeikiai I
+790-1;Vydeikiai II
+1520-1;Žemaičių Kalvarija
+3821-1;Žerniai
+2002-1;"Pasaka"
+1940-1;"Senukai"
+489-2;"Verknė"
+1917-1;Aerodromas
+1767-1;Alšininkai
+1768-1;Alšininkų mokykla
+1924-1;Antakalnio miestelis
+1800-1;Antakalnis
+1919-1;Apušotas
+1920-1;Apušotas 1
+173-1;Asiūklė
+1921-1;Ašminta
+1922-1;Ašminta 1
+115-1;Aukščiausia eglė
+1911-1;Autotransportas
+1799-1;Bačkininkai
+1803-1;Bačkininkėliai
+1914-1;Bagrėnas
+1915-1;Bagrėno kalnas
+1988-1;Balbieriškio žemės ūkio mokykla
+118-1;Balbieriškis
+1989-1;Balbieriškis (centras)
+1939-1;Biblioteka
+4718-1;Bijūnų g. (SB "Aronija")
+2119-1;Byliškės
+172-1;Būdininkai
+1961-1;Būtautiškė
+1963-1;Cikabūdė
+1936-1;Čiudiškiai
+6-1;Čiurliai
+1935-1;Dambrava
+3025-1;Dargupis
+1748-1;Darsūniškio kryžkelė
+1927-1;Daukšiagirė
+1952-1;Degimai
+1866-1;Dujų ūkio k.
+1760-1;Dukurnonys
+190-1;Dūmiškės
+1928-1;Dvylikiai
+1943-1;Girininkija
+8-1;Gyviai
+1933-1;Gražučiai
+1776-1;Gripiškės
+1771-1;Guostos ežeras
+1771-2;Guostos ežežas
+1968-1;Ingavagis 1
+1950-1;Ingavangis
+1861-1;Išlaužas
+1931-1;Išlaužo mokykla
+1942-1;J.Basanavičiaus g.
+1983-1;Jiestrakis
+491-1;Jieznas
+1757-1;Jieznas "Doleta"
+499-1;Jogalina
+1949-1;Juodaraistis
+1849-1;Juodaviškiai
+1957-1;Juodbūdis
+1752-1;Kašonys
+1912-1;Kauno g.
+4716-2;Kauno g. (Papilvio k.)
+1802-1;Kėbliškiai
+1754-1;Kisieliškės
+1759-1;Kiškeliškės
+119-1;Kižai
+1948-1;Klebiškis
+1929-1;Kudirkai
+1972-1;Kuišiai
+1985-1;Kunigiškiai
+1932-1;Lapupis
+1930-1;Laukiškės
+1966-1;Lešiškės
+1962-1;Leskava
+1764-1;Liciškėnai
+498-1;Lielionys
+1775-1;Lielionys 1
+1753-1;Lingėniškės
+1956-1;Lizdeikiai
+1865-1;Mačiūnai
+1999-1;Mackiai
+1925-1;Malinavas
+1758-1;Marginiai
+2230-2;Margininkų kr.
+4-1;Mauručiai
+5-1;Mauručių kryžkelė
+1987-1;Medvišiai
+1769-1;Medžionys
+1944-1;Meškapievės
+1981-1;Mieleiškampis
+1980-1;Mieleišupis
+1964-1;Mikalinė
+1955-1;Mozūriškės
+2006-1;Naujakuriai
+171-1;Naujoji Ūta
+2001-1;Navosiolkos kaimas
+1798-1;Pabališkiai
+1937-1;Pačiudiškiai
+1852-1;Padrėčiai
+1923-1;Pagaršvys
+1954-1;Pajiesys
+1967-1;Pajuodupys
+1951-1;Pakiauliškės
+495-1;Pakrova I
+494-1;Pakrovai
+1863-1;Pakumprys
+1801-1;Pakuonis
+1869-1;Paprienė
+1986-1;Paprūdžiai
+1971-1;Paskrynupys
+1970-1;Pašlavantys
+1926-1;Pašventupys
+1751-1;Pelekonys
+1992-1;Peršekė
+1959-1;Petkeliškės
+1766-1;Pieštuvėnai
+493-1;Pikelionys
+1918-1;Pociūnai
+1941-1;Poliklinika
+1778-1;Popsys
+1994-1;Pramezys
+1868-1;Prienai
+1947-1;Prienlaukio ežeras
+1946-1;Prienlaukio mokykla
+1945-1;Prienlaukys
+1910-1;Prienų auto parkas
+1990-1;Putrišiai
+1991-1;Putrišiai 1
+1796-1;Puzonys
+4085-1;Puzonys 1
+1773-1;Radomislė
+1976-1;Ringėnai
+1934-1;Rutkiškės
+6024-1;Šaltiniškiai
+1862-1;Šaltupis
+1982-1;Sarginė
+2120-1;SB "Aronija"
+4717-1;SB "Dobilas" (Papilvio k.)
+3898-1;Šeimos klinika
+1953-1;Siaurupis
+1965-1;Šilavotas
+3026-1;Skersabalis
+9-1;Skriaudžiai
+1979-1;Skuigė
+1847-1;Skuodiškės
+1848-1;Slabada
+4715-1;Smėlio g. (Papilvio k.)
+1960-1;Šmorai
+1761-1;Sobuva
+1908-1;Sodai
+2009-1;Sodo g
+2003-1;Sodo g.
+1867-1;Sodra
+1958-1;Spyglinė
+3899-1;Sporto arena
+496-1;Stakliškės (miestelis)
+497-1;Stakliškės (paviljonas)
+1765-1;Stakliškių kaimas
+1763-1;Stazdiškės
+492-1;Strazdiškės
+1864-1;Strielčiai
+1913-1;Strielčiai 2
+1984-1;Stuomenai
+1996-1;Sūkuriai
+1995-1;Sūkurių kryžkelė
+1762-1;Sundakai
+2000-1;Švyturio kaimas
+170-1;Tartupis
+168-1;Uosa
+1772-1;Užuguostis 1
+1774-1;Užuguostis 2
+116-1;Valatkai
+169-1;Vartai
+1916-1;Važatkiemis
+7-1;Veiveriai
+490-1;Verbyliškės
+524-1;Vėžionių kryžkelė
+2448-1;Vėžionys
+1750-1;Viekšnia
+1777-1;Vyšniūnai
+1755-1;Voseliūnų miškas
+1993-1;Žagariai
+1969-1;Žarsta
+1779-1;Želkūnai
+2005-1;Žemaitės g.
+2008-1;Žemaitės g. 1
+2004-1;Žemaitės g. 2
+1978-1;Žemaitkiemis
+1756-1;Žideikonys
+1998-1;Žiūronių kryžkelė
+1997-1;Žiūronių mokykkla
+1997-2;Žiūronių mokykla
+117-1;Žydaviškis
+1736-1;Aukštelkai
+1114-1;Baisogala
+2290-1;Dambava
+1102-1;Daugėlaičiai
+1115-1;Girvalakiai
+2300-1;Gudeliai (Šiaulių r.)
+1104-1;Ilguočiai
+1107-1;Karčemos
+1105-1;Karčiamų kryžkelė
+1737-1;Kauliniai
+2295-1;Kutiškiai
+1108-1;Linkaičiai
+1100-1;Mantviliškiai
+1735-1;Mažaičiai
+2292-1;Mažuliai
+1098-1;Mūrai
+1101-1;Nirtaičiai
+2291-1;Pakalniškiai
+1110-1;Pavartyčiai
+1111-1;Pavartyčių kryžkelė
+2289-1;Pociūnai (Radviliškio r.)
+1106-1;Radviliškis
+2293-1;Raudondvaris (Radviliškio r.)
+1112-1;Šeduva
+1097-1;Šiaulaičiai
+1099-1;Šiaulėnai
+2294-1;Šiaulių g.
+1117-1;Skamaičiai
+1116-1;Skėmiai
+2296-1;Šniūraičiai
+2301-1;Vaižganto g.
+1109-1;Velžiai
+1113-1;Žilioniai
+1103-1;Žinėnai
+603-1;"Šatrija"
+1581-1;Alėjai
+598-1;Anulynas
+589-1;Ariogala
+1071-1;Aukštadvaris
+1086-1;Bebirvai
+1091-1;Bedančiai
+3990-1;Belvederis
+1075-1;Berteškiai
+1076-1;Betygala
+597-1;Biliūnai
+612-1;Blinstrubiškiai
+4073-1;Butkiškė
+588-1;Čėkuva
+1090-1;Dainiai
+592-1;Didžiuliai
+608-1;Dumšiškiai
+1089-1;Gabšiai
+587-1;Gėluva
+596-1;Girkalnis
+1580-1;Jorūdiškė
+586-1;Jučiai
+1088-1;Kalnujai
+1092-1;Katauskiai
+633-1;Kryžkalnis
+590-1;Kunigiškiai
+616-1;Legotiškė
+585-1;Lesčiai
+1077-1;Liktėnai
+594-1;Milašaičių kryžkelė
+601-1;Miškų urėdija
+604-1;Mokykla
+617-1;Nemakščiai
+600-1;Norgėliai
+1079-1;Pagojys
+607-1;Paraseinys
+591-1;Plembergas
+2455-1;Plikiai
+1078-1;Požečiai
+605-1;Raseiniai
+3989-1;Raseinių priemiestis
+602-1;Regitra
+1069-1;Roglaičiai
+1087-1;Šaltuona
+599-1;Šarkiai
+1093-1;Šiauleliai
+1583-1;Šienlaukio glž.st.
+1582-1;Šienlaukis
+1070-1;Šiluva
+1073-1;Siručiai
+1074-1;Skirmantiškė
+609-1;Slabada
+611-1;Sujainiai
+3006-1;Sujainiai autostradoje
+1579-1;Ūnikiai
+618-1;Užkalniai
+610-1;Varnėnai
+3011-1;Vėjukai
+593-1;Verėduva
+613-1;Viduklė
+606-1;Vilniaus g.
+615-1;Virgainiai
+595-1;Visbarai
+1072-1;Žaiginys
+784-1;Bubėnai
+1552-1;Dubosgiris
+1553-1;Giliogiris
+781-1;Girdvainiai
+1451-1;Girėnai
+1554-1;Gomantlaukis
+782-1;Jaupėnai
+1558-1;Kaupai
+802-1;Labardžiai
+780-2;Patyris
+1453-1;Pelaičiai
+801-1;Pjaulės
+783-1;Rietavas
+1452-1;Stumbrės
+1557-1;Tauravas
+1556-1;Tverai
+1555-1;Užpeliai
+2432-1;Antanaše
+1320-1;Apaščia
+1299-1;Baltakarčiai
+2425-1;Bradesiai
+2436-1;Čelkiai
+1302-1;Čepeliškė
+1309-1;Degeniai
+2440-1;Gačionys
+2431-1;Galažeriai
+1311-1;Gerkonys
+2434-1;Gindviliai
+1308-1;Ilgalaukiai
+1300-1;Joneliškės
+1043-1;Juodonys
+2428-1;Juozapava
+2441-1;Jūžintai
+1044-1;Kalviai
+1046-1;Kamajai
+1304-1;Kavoliškio miestelis
+1305-1;Kavoliškis
+2429-1;Keležeriai
+1312-1;Kirdonys
+2437-1;Laibgaliai
+1045-1;Laukagaliai
+2430-1;Mičiūnai
+1313-1;Miliūnai
+1307-1;Moškėnai
+2433-1;Obeliai
+1303-1;Pagrandžiai
+1319-1;Pandėlys
+1301-1;Panemuniai
+2442-1;Pilkėnai
+1315-1;Puluikiai
+2439-1;Radišiai
+2438-1;Rageliai
+1321-1;Raikėnai
+1049-1;Rokiškis
+1298-1;Rukšiai
+1310-1;Šakaliai
+1048-1;Sėlynė
+1297-1;Šetekšnos
+1047-1;Skrebiškis
+1314-1;Sriubiškiai
+1306-1;Stramiliai
+5576-1;Trakas
+2435-1;Varaščina
+427-1;"Metalas"
+551-1;Advernai
+417-1;Agurkiškė
+541-1;Baltrušiai
+543-1;Barzdai
+3028-1;Beduonė
+5737-1;Bizieriai
+546-1;Bliuviškiai
+4919-1;Bliuviškių kryžkelė
+550-1;Bridžiai
+5736-1;Briedžiai
+434-1;Būbleliai
+5738-1;Bundzai
+5739-1;Bunikėliai
+565-1;Dabitai
+566-1;Daukantiškiai
+3044-1;Degutinė
+556-1;Draustinė
+540-1;Gabriškė
+3045-1;Galiniai
+568-1;Gelgaudiškis
+567-1;Gelgaudiškis centras
+418-1;Gerdžiai
+3033-1;Gerdžiūnai
+552-1;Giedručiai
+5740-1;Girininkija
+547-1;Griškabūdis
+428-1;Išdagai
+416-1;Jančiai
+3035-1;Joginiškiai
+5744-1;Jotiškiai
+561-1;Kaimelis
+562-1;Karališkiai
+5743-1;Karkazai
+4911-1;Kašeliai
+548-1;Katiliai
+559-1;Kėpštai
+419-1;Kerai
+5735-1;Kermušėnai
+5733-1;Keturkaimis
+5734-1;Keturkaimis II
+432-1;Keturnaujiena
+563-1;Kiduliai
+430-1;Kirmiškiai
+5747-1;Kisieliai
+3037-1;Klangiai
+5724-1;Klepai
+554-1;Klišių tvenkinys
+3054-1;Kretkampis
+3036-1;Kriūkai
+5745-1;Kubiliai
+5731-1;Kudirkos Naumiesčio gimnazija
+484-1;Kudirkos Naumiestis
+433-1;Kulnistai
+553-1;Kumpupiai
+415-1;Lekėčiai
+4808-2;Lekėčių girininkija
+414-1;Lekėčių miestelis
+425-1;Lembūdžiai
+421-1;Liepalotai
+420-1;Liepalotai I
+423-1;Lukšiai
+4087-1;Matjošiškė
+435-1;Meištai
+544-1;Meškiniai
+5732-1;Miestlaukis
+4810-1;Mikytai
+3031-1;Morkai
+5725-1;Nova
+431-1;Novos draustinis
+564-1;Pajotijys
+3047-1;Paluobių kr.
+5729-1;Panoviai I
+5730-1;Panoviai II
+3029-1;Patašiai
+545-1;Patašinė
+3055-1;Pavilkijys
+4086-1;Peleniai
+5971-1;Pervazninkai
+558-1;Petraičiai
+4088-1;Piesčiai
+5742-1;Plokščiai
+5741-1;Plokščių mokykla
+3043-1;Pranskabūdis
+3032-1;Puidokai
+542-1;Pupiai
+3041-1;Raugalai
+555-1;Ritiniai
+426-1;Šakiai
+5746-1;Šilvėnai
+429-1;Sintautai
+549-1;Skaisgiriai
+569-1;Striūpų g.
+5972-1;Sudargas
+3030-1;Sutkai
+3040-1;Tarpučiai
+4809-1;Tirmėnai
+5726-1;Totorviečiai
+5727-1;Turčinai I
+5728-1;Turčinai II
+557-1;Valenčiūnai
+424-1;Valiuliai
+483-1;Varpo g. (Kudirkos Naumiestis)
+3046-1;Vidgiriai
+3038-1;Žemoji Panemunė
+560-1;Žygėnai
+3027-1;Zypliabūdis
+422-1;Zypliai
+3034-1;Žuklijai
+3042-1;Žvirgždaičiai
+5024-1;39 km
+5338-1;Abolai
+5337-1;Abolai 1
+5339-1;Akmenynė
+5340-1;Akmenynė 2
+674-1;Anciuškos
+5336-1;Anuliškės
+5398-1;Aukštalaukis I
+5397-1;Aukštalaukis II
+5023-1;Ažulomis
+5069-1;Baltoji Vokė
+5068-1;Baltosios Vokės ligoninė
+5386-1;Baumiliškės
+5343-1;Bėčiakelniai
+5391-1;Butrimonys
+5396-1;Dailidės
+666-1;Dainava
+5387-1;Daučiūnai
+5335-1;Didieji Baušiai
+5385-1;Didžiosios Sėlos
+5344-1;Duksiai 1
+5344-3;Duksiai 2
+668-1;Eišiškės
+5402-1;Emiliškės
+662-1;Gėlūnai
+5389-1;Gerviškės
+5350-1;Gimžiai
+5029-1;Gojus
+5403-1;Gornostaiškės
+5383-1;Gudeliai
+5028-1;Jaglimainys
+5394-1;Jančiūnai
+5393-1;Janonys
+5030-1;Jašiūnai
+5380-1;Jašiūnų geležinkelio stotis
+5060-1;Juškiai
+675-1;Kalesninkai
+5388-1;Kalveliai
+5378-1;Keramikos st.
+5384-1;Kidarai
+5351-1;Križkelė
+5059-1;Kryžkelė
+5345-1;Kurmelionys
+5392-1;Maciūnai
+5342-1;Mankūniškės
+671-1;Mantviliškės
+5404-1;Mickevičiaus g.
+664-1;Miežionys
+5057-1;Mokykla
+5061-1;Naidūnai
+5022-1;Nalšia
+672-1;Naujadvaris
+5395-1;Naujasėdžiai
+5348-1;Pamerkys
+5379-1;Posūkis į Jašiūnų geležinkelio st.
+5341-1;Posukis į Kurmelionis
+665-1;Pulstakai
+5026-1;Ragožiškės
+5390-1;Raščiūnai
+5067-1;Rūdninkai
+4103-1;Šalčininkai
+5025-1;Šalčininkėliai
+4102-1;Šalčininkų PKP
+2499-1;Senieji Maceliai
+5349-1;Šeštokai
+5381-1;Sližiūnai
+669-1;Statybininkų g.
+5062-1;Tabariškės
+5400-1;Tausiūnai
+5401-1;Tausiūnų g.
+663-1;Tetėnai
+5058-1;Turgeliai
+670-1;Varėnos plentas
+673-1;Verseka
+5399-1;Vilkonys
+667-1;Viškūnai
+2500-1;Žagarinė
+5346-1;Žaltūnai
+5027-1;Zavišonys
+661-1;Žygmantiškės
+1642-1;Centras
+1639-1;Darbininkų g.
+2299-1;Geriatrijos centras
+2298-2;Radviliškio g.
+1641-1;Šiauliai
+4796-1;Šiaulių AS geležinkelio stotis
+4795-1;Šiaulių AS laikinoji aikštė
+4503-1;Toločiai
+1640-1;Turgus
+1643-1;Vaidoto g.
+1687-1;Verslo inkubatorius
+2298-1;Vilkaviškio g.
+4777-1;Adomiškės
+6501-1;Aleksandrija
+1062-1;Alksnyniškė
+4968-1;Amaliai
+6503-1;Anulynas
+5969-1;Apušėliai
+6504-1;Ariogala
+1064-1;Aukštelkė
+6506-1;Babtai
+6507-1;Bazilionai
+6508-2;Bertužiai
+6509-1;Beržėnai
+6510-1;Beržynė
+4988-1;Beržtvai
+6511-1;Bijotė
+4869-1;Biručiai
+4855-1;Bitėnų kryžkelė
+6512-1;Blinstrubiškiai
+1686-1;Bridai
+6514-1;Bridai m.
+1063-1;Bubiai
+1578-1;Bubių kryžkelė
+6517-1;Bubių miestelis
+6518-1;Bubių sodai
+6519-1;Bubių tvenkinys
+4864-1;Butkaičiai
+6521-1;Čėkuva
+4817-1;Centras (Kuršėnai)
+4886-1;Čeponiai
+6522-1;Cinkiškiai
+5131-1;Čiuiniai
+4860-1;Daugėliai
+4859-1;Daugėlių pervaža
+4859-2;Daugėlių perveža
+6530-1;Dauginčiai
+4780-1;Daunorai
+6526-1;Dengtiltis
+6527-1;Devintas fortas
+6528-1;Didžiuliai
+4993-1;Dirvonėnai
+1645-1;Domantai
+4981-1;Dubikiai
+4972-1;Egėliškės
+6531-1;Eimučiai
+6532-1;Einoraičiai km.
+6533-1;Elvyrava
+6534-1;Galminaičiai
+6535-1;Galminaičių kryžkelė
+6536-1;GARAŽAS
+1629-1;Gedintės
+6539-1;Gėluva
+6540-1;Geluvos sodai
+4966-1;Gergždelių kryžkelė
+4778-1;Gibaičiai
+6541-1;Giedriai
+4852-1;Gilaičiai
+4867-1;Gilvyčiai
+4866-1;Gilvyčių ūkis
+4785-1;Ginkūnai
+6542-1;Girelė
+6543-1;Girkalnis
+6548-1;Gyvenvietė
+6544-1;Gordai
+6545-1;Grimziai
+1685-1;Gruzdžiai
+5968-1;Gruzdžių technikumas
+6547-1;Gudeliai
+4971-1;Gulbinų girininkija
+4858-1;Guragiai
+4821-1;Internatas (Kuršėnai)
+4799-1;Jakštaičiukai
+6550-1;Jauniškė
+6553-1;Jazminas
+4840-1;Jonelaičiai
+6555-1;Jovaras
+6556-1;Jučiai
+6557-1;Juodgiris
+4992-1;Juozapava
+6558-1;Kairiai I
+4965-1;Kalviškiai
+6560-1;Kaniūkai
+6561-1;Kapinės
+4987-1;Kapinės (Kuršėnai)
+4776-1;Karvazai
+4977-1;Kasčiukai
+6562-1;Kaunas AS
+6563-1;Kelmė AS
+4862-1;Ketūnai
+6564-1;Kiaunoriai
+4851-1;Kybartai
+6566-1;Kriešinė
+5136-1;Krikliai
+6567-1;Kryžbarkas
+6665-1;Kryžių kalnas
+6568-1;Kryžkalnis AS
+4974-1;Kubeliai
+4973-1;Kubelių mokykla
+6569-1;Kukečiai
+6570-1;Kunigiškė
+4848-1;Kupriai
+4976-1;Kurauskai
+1630-1;Kuršėnai
+4894-1;Kuršėnų aplinkelis
+4962-1;Kuršėnų geležinkelio stotis
+1577-1;Kurtuvėnai
+1576-1;Kurtuvėnų kryžkelė
+1637-1;Kužiai
+6573-1;Laisvučiai
+4990-1;Lapkasiai
+6575-1;Laučynė
+5139-1;Laukstučiai
+6576-1;Lesčiai
+6577-1;Lieporiai
+5134-1;Likučiai
+6578-1;Linartai
+4905-1;Linartų sodai
+6579-1;Lingailiai km.
+1689-1;Liutkūnai
+4790-1;Lygudai
+1638-1;Lukšiai
+1647-1;Lūpaičiai
+4784-1;Malavėnai
+4970-1;Maldenai
+6582-1;Mateikiai
+6583-1;Mažaičiai
+4789-1;Mažeikiai
+1636-1;Medvalakė
+4895-1;Melioratorių g.
+6584-1;Meškiai
+1649-1;Meškuičiai
+6586-1;Meškuičių kryžkelė
+6587-1;Milašaičių kryžkelė
+1648-1;Misaičiai
+4999-1;Misaičiai I
+6589-1;Mockaičiai
+6590-1;Mokykla
+4854-1;Mostaičiai
+4779-1;Naisiai
+6592-1;Narušaičiai
+6594-1;Nemakščiai
+4504-1;Noreikiai
+6596-1;Noreišiai
+5970-1;Norutaičiai
+4979-1;Norvaišiai
+6597-1;Pabijočiai
+6598-1;Pageluvis
+6600-1;Pakapė
+4792-1;Pakarniukai
+6601-1;Pakražantis
+1631-1;Pakumulšiai
+4872-1;Pakuršėnis
+4995-1;Pamockė
+5132-1;Papelkiai
+6602-1;Paprūdžiai
+4963-1;Paringuvio kaimas
+6603-1;Pašiaušė
+6604-1;Pašvinės
+1574-1;Pašvinės sodai
+4998-1;Pavenčiai
+6606-1;Paverpenis
+6607-1;Paverpenys
+4822-1;PC Norfa (Kuršėnai)
+6609-1;Pikeliškės
+6610-1;Pikeliškių kelias
+1684-1;Piktuižiai
+6612-1;Pluskiai
+6613-1;Posūkis į Kelmę
+4994-1;Pūšiliai
+4863-1;Pušynas
+4794-1;Radvilai
+4798-1;Raizgiai
+4787-1;Rakandžiai
+6616-1;Raseiniai AS
+1632-1;Raudėnai
+4884-1;Raudondvaris
+4857-1;Raupaičiai
+1627-1;Rekčiai
+6617-1;Rėkyva
+4967-1;Repšiai
+4964-1;Ringuva
+4502-1;Ringuvėnai
+1628-1;Romučiai
+4841-1;Rudiškiai
+1683-1;Šakyna
+4786-1;Sauginiai
+6619-1;Šaukėnai
+4885-1;Šelvėnai
+4868-1;Šemetiškiai
+6621-1;Šiauliai AS
+4861-1;Šilelis
+4845-1;Šilėnai
+6622-1;Šilo Pavėžupis
+6623-1;Šimtas ket.km.
+6624-1;Sitkūnai
+6625-1;Šiūbaičiai
+4788-1;Šiupyliai
+4788-3;Šiupylių kontora
+4980-1;Skačiai
+6627-1;Skaudviliai
+6628-1;Slabada
+4856-1;Smilgiai
+4978-1;Smiltynė
+4843-1;Sodai 1
+4844-1;Sodai 2
+6630-1;Sodai per Bubius
+6631-1;Spaudžiai
+6632-1;Stendas
+4989-1;Steponiškės
+4853-1;Stonaičiai
+4997-1;Stoties g. (Kuršėnai)
+4782-1;Stukai
+6635-1;Sujainiai
+6636-1;Šukiškiai
+2297-1;Susivienijimas
+1644-1;Sutkūnai
+6639-1;Suvartuva
+6640-1;Svarainis
+5140-1;Svirbūtės
+6641-1;Taručiai
+4983-1;Taučiai
+1646-1;Tautiniai
+6645-1;Tytuvėnai
+6646-1;Tytuvėnėliai
+6643-1;Toleikiai
+4820-1;Turgus (Kuršėnai)
+6644-1;Tvibiai
+4781-1;Uosupys
+6647-1;Užkalniai
+6648-1;Vabalickiai
+3933-1;Vadeikiai
+4986-1;Vanagiškės
+5135-1;Varputėnai
+6650-1;Vėgėliai
+4793-1;Verbūnai
+6651-1;Verėduva
+6652-1;Veterinarija
+6653-1;Viduklė
+6654-1;Viduklės glž.st
+4846-1;Vijoliai
+6656-1;Vincentava
+6657-1;Vinkšnėnai
+6658-1;Visbarai
+5133-1;Visdergiai
+4847-1;Voveriškiai
+4982-1;Vozbučiai
+6659-1;Žadžiūnai
+6661-1;Žalpeliai
+6662-1;Žarėnai
+1688-1;Žeimiai
+6663-1;Žilakiai
+1626-1;Žiliai
+4791-1;Žiogai
+815-1;Alijošiškės
+701-1;Ąžuolija
+812-1;Balsiai
+1447-1;Drobūkščiai
+808-1;Dvarviečiai
+1441-1;Džiaugėnai
+698-1;Gineikiai
+702-1;Girvainiai
+1449-1;Grimzdai
+703-1;Gulbės
+699-1;Kaltinėnai
+1440-1;Keberkščiai
+805-1;Kelpšaičiai
+696-1;Košiai
+1443-1;Kūtimai
+1448-1;Kvėdarna
+704-1;Laukuva
+806-1;Laukuva miestelis
+1450-1;Lembas
+1444-1;Lingiškė
+811-1;Mažrimai
+1442-1;Medeliškė
+700-1;Misaičiai
+807-1;Naujosios kapinės
+809-1;Padievytis
+705-1;Paežeris
+1454-1;Pajūralis
+1439-1;Pajūris
+814-1;Pūtvė
+804-1;Ręsčiai
+1456-1;Šakėnai
+1446-1;Šarkai
+1455-1;Sauslaukis
+813-1;Šilalė
+697-1;Tūjainiai
+803-1;Vėlaičiai
+810-1;Viadukas virš autostrados
+1445-1;Žąsinas
+1427-1;"Turgus"
+1429-1;Armalėnai
+4946-1;Balčiai
+1438-1;Bikavėnai
+1465-1;Bružai
+1467-1;Čiūteliai
+1436-1;Dargiškė
+1425-1;Gaideliai
+1461-1;Gardamas
+1458-1;Gedikai
+1437-1;Gorainiai
+1434-1;Grygališkė
+1424-1;Juknaičiai
+4945-1;Kivyliai
+4944-1;Kivylių biblioteka
+1423-1;Kūgeliai
+1431-1;Kulėšai
+1462-1;Lapaliai
+1430-1;Laučiai
+1463-1;Rudynai
+1466-1;Saugos
+1433-1;Šiaudviečiai
+1426-1;Šilutė
+1457-1;Stemplės
+1459-1;Švėkšna
+1428-1;Traksėdžiai
+1460-1;Tvaskučiai
+1421-1;Usėnai
+1435-1;Vainutas
+4943-1;Vainuto kryžkelė
+1468-1;Vilkyčiai
+1432-1;Žemaičių Naumiestis
+1422-1;Žemaitkiemis I
+1464-1;Žemaitkiemis II
+5096-1;"Šilelis" SB
+846-1;Aizvikis
+844-1;Astruvka
+5217-1;Bagaslaviškės
+5095-1;Bartkuškio kr.
+5202-1;Bartkuškis
+852-1;Beržė
+5220-1;Bredėnai
+845-1;Čiobiškis
+5205-1;Daubariškiai
+5210-1;Davonys
+5213-1;Gelvonai
+5219-1;Gelvonėliai
+5094-1;Jauniūnai
+5209-1;Juknonys
+5099-1;Juodeliai
+5100-1;Kabalda
+5203-1;Kaimynai
+5214-1;Kaliakiemiai
+5112-1;Kaukiškio k.
+5109-1;Kernavė
+5098-1;Kieliai
+5108-1;Klišabalė
+5111-1;Kunigiškiai
+843-1;Labūnava Širvintų r.
+847-1;Lapelės
+842-1;Liukoniai
+854-1;Liūnai
+5212-1;Mikalajūnai
+5113-1;Mikališkis
+5115-1;Miškų ūkis
+5224-1;Mokinių stotelė
+849-1;Musninkai
+5206-1;Musninkėliai
+5208-1;Padvariai
+5216-1;Pagojis
+5110-1;Pakalniškiai
+5097-1;Puoriai
+851-1;Rimučiai
+5211-1;Sabališkiai
+5218-1;Sedūnai
+855-1;Senadvariai
+853-1;Širvintos
+5223-1;Širvintų k.
+5222-1;Spadviliškis
+5207-1;Spietiškių sankryža
+5114-1;Taučiuliai
+5201-1;Užublendžiai
+1280-1;Viesos
+850-1;Vileikiškiai
+5204-1;Viršuliškiai
+848-1;Virvyčiai
+5200-1;Žarnavagiai
+5215-1;Zubeliai
+744-1;Aleksandrija
+1509-1;Apuolė
+1498-1;Baidotai
+1505-1;Barstyčiai
+739-1;Gedrimai
+737-1;Gedrimų durpynas
+742-1;Gintalaičiai
+1513-1;Gricaičiai
+745-1;Guntinai
+1512-1;Ylakaičiai
+740-1;Ylakiai
+756-1;Juodeikiai
+1508-1;Kaukolikai
+743-1;Klauseikiai
+1603-1;Kruopiai
+754-1;Lenkimai
+750-1;Luknės
+1515-1;Luoba
+736-1;Margininkai Skuodo r.
+1504-1;Mikytai
+798-1;Mosėdis
+797-1;Mosėdis miestelis
+4570-1;Naujukai
+1500-1;Notėnai I
+1501-1;Notėnai II
+751-1;Paluknė
+1514-1;Pašilė
+800-1;Puodkaliai
+1602-1;Puokė
+1503-1;Rusiškės
+747-1;Rūšupiai
+746-1;Šarkė
+1510-1;Šarkė 1
+1506-1;Šatės
+4572-1;Šatraminiai
+796-1;Šaukliai
+748-1;Skuodas
+749-1;Skuodo glž.st.
+1502-1;Šliktinė
+752-1;Sriauptai
+741-1;Stripiniai
+799-1;Udraliai
+1507-1;Vabaliai
+753-1;Veitai
+738-1;Visgaudžiai
+755-1;Žemytė
+9954-11;Adutiškis
+9959-21;Bačkininkai
+5587-1;Baliuliai
+971-1;Burovka
+5598-1;Cirkliškis
+1164-1;Gamykla "Modulis"
+9958-19;Girdėnai
+5594-1;Juzina
+9956-15;Kackonys
+970-1;Kaltanėnai
+9963-29;Kukiškė
+980-1;Kūriniai
+982-1;Labanoras
+9961-25;Lalučiai
+983-1;Laukagalis
+973-1;Liubiškė
+9964-31;Medišionys
+4811-1;Meškerinės kaimas
+9962-27;Milkuškos
+1162-1;Pabradė
+1161-1;Pabradė II
+5588-1;Pameronys
+5586-1;Pavoverė
+5585-1;Pavoverė II
+5596-1;Peršaukštis
+974-1;Pliauškės
+1160-2;Purviniškiai
+9960-23;Sakališkė
+5595-1;Sariai
+1165-1;Silniškiai
+5593-1;Šutai
+972-1;Švenčionėliai
+5599-1;Švenčionėlių g.
+975-1;Švenčionys
+5591-1;Svirkiškė
+9957-17;Svirkos
+1166-1;Trakinė
+981-1;Vosiuliškė
+9955-13;Vosiūnai
+5590-1;Zalavas
+630-1;"Turgus"
+624-1;Antegluonis
+4950-1;Aukštupiai
+819-1;Baltrušaičiai
+4953-1;Bekeriškė
+4951-1;Būdvyčiai
+4947-1;Draudėnai
+821-1;Eičiai
+619-1;Gedgaudiškė
+4955-1;Girgždai
+1409-1;Griežpelkiai I
+1408-1;Griežpelkiai II
+620-1;Ivangėnai
+629-1;J.Kruopo g.
+623-1;Jakutiškė
+627-1;Joniškė
+628-1;Joniškės sodai
+626-1;Juodpetriai
+4952-1;Kęsčiai
+695-1;Kirkliai
+1410-1;Lauksargiai
+818-1;Mažonai
+4954-1;Meldekvirčiai
+1412-1;Meldikviršiai
+1390-1;Nosaičiai
+816-1;Pagramantis
+1392-1;Petkaičiai
+4949-1;Pryšmantai
+621-1;Pužai
+625-1;Pužiškė
+820-1;Sakalinė
+1411-1;Šaltaičiai
+1391-1;Šiurpiškės
+632-1;Skaudvilė
+622-1;Skaudvilės girininkija
+817-1;Sungailiškiai
+631-1;Tauragė
+1413-1;Taurai
+4948-1;Žygaičiai
+713-1;Buožėnai
+1562-1;Daukantai
+1635-1;Eigirdžiai
+715-1;Gailiškiai
+711-1;Gaudikaičiai
+1592-1;Gaulėnai
+1595-1;Gečiai
+1523-1;Irkiniai
+2492-1;Janapolė
+1560-1;Jonikaičiai
+1606-1;Juodininkiai
+712-1;Kalnėnai
+1608-1;Kanteniai
+1634-1;Kiršiai
+709-1;Krėpštai
+1596-1;Kveiliai
+1593-1;Luokė
+9502-1;Masčio g.
+1607-1;Nevarėnai
+706-1;Palūkstis
+1561-1;Panakatis
+716-1;Paplinkšė
+1594-1;Patumšaliai
+1564-1;Pavandenė
+9501-1;Rainiai
+714-1;Sarakai
+3812-1;Šilų girininkija
+1604-1;Tausalas
+1605-1;Tausalas II
+710-1;Telšiai
+1633-1;Tryškių kryžkelė
+1559-1;Varneliai
+707-1;Varniai
+1597-1;Viešvėnai
+1538-1;Vigantiškiai
+708-1;Žarėnai
+1563-1;Žiogė
+243-1;Alešiškės
+251-1;Antakalnis
+503-1;Aukštadvaris
+253-1;Ąžuolijai
+259-1;Babriškės
+256-1;Bajambalės
+249-1;Bičiūnai
+5128-1;Dedeliškės
+507-1;Drabužininkai
+277-1;Dusmenys
+5020-1;Ferma
+242-1;Gineitiškės
+5017-1;Girininkija
+303-1;Gojus
+250-1;Grendavė
+244-1;Gudžionys
+305-2;Guopstos
+278-1;Jurgionys
+500-1;Jurgionys Trakų r.
+5021-1;Kaimelis
+511-1;Kaptiškės
+510-1;Karališka virtuvė
+501-1;Karapolis
+279-1;Kietaviškės
+508-1;Krasnapolis
+517-11;Lenstata
+5014-1;Lentvario gel. st.
+5013-1;Lentvaris 2
+506-1;Mackantiškės
+300-1;Madžiūnai
+512-1;Markutiškės
+5127-1;Moluvėnai
+504-1;Nikronys
+248-1;Onuškis
+301-1;Paežerėliai
+302-1;Paluknys
+252-1;Panošiškės
+245-1;Pasamavis
+5016-1;Pasėkiai
+513-1;Penkininkai
+505-1;Pertašiškės
+276-1;Ponykštės
+523-1;Račkūnai
+5015-1;Račkūnai (Lentvaryje)
+502-1;Rangava
+247-1;Rieznyčia
+5126-1;Rykantai
+304-1;Ropėjos
+5018-1;Rubežius
+254-1;Rūdiškės
+5019-1;Serapiniškės
+257-1;Šklėriai
+509-1;Strėva
+306-2;Šventininkai
+516-1;Trakai
+255-1;UAB "Rudmė"
+246-1;Vaickūniškės
+5016-11;Vilties g.
+515-1;Žaizdrastis I
+514-1;Žaizdrastis II
+258-1;Žukiškės
+1277-1;Alionys
+2180-1;Bagnapolis
+2168-1;Baleliai
+1284-1;Balelių kryžkelė
+865-1;Basanavičiaus g.
+861-1;Bernotiškiai
+1136-1;Butkūnai
+862-1;Dainava
+1276-1;Deltuva
+1281-1;Gaiveniai
+1181-1;Gasparuolis
+2497-1;Girelė
+1131-1;Graužiečiai
+1132-1;Inkilai
+1278-1;Jačionys
+1275-1;Jakutiškiai
+1134-1;Janušiškis
+1021-1;Juodmiškis
+1133-1;Kartėnai
+864-1;Kauno g.
+1184-1;Kazliškiai
+2167-1;Kraupėnai
+1279-1;Krikštėnai
+2160-1;Kurėnai
+863-1;Laibiškiai
+1182-1;Laumėnai
+2181-1;Lėnas
+1135-1;Liaušiai
+4960-1;Liepeliai
+1274-1;Lokėnai
+1283-1;Mažeikiai autostradoje
+2179-1;Mažeikiai Ukmergės r.
+2169-1;Menturiai
+867-1;Mūšia
+2182-1;Naujasodis
+1130-1;Nuotekų g.
+2164-1;Paąžuoliai
+860-1;Pageležiai
+1138-1;Pašiaudinė
+1022-1;Radiškio kryžkelė
+870-1;Radiškis
+2159-1;Rečionys
+1282-1;Šalnos
+2166-1;Šiukštiškėliai
+2163-1;Skabeikiai
+1137-1;Skuoliai
+869-1;Šventupė
+2165-1;Taujėnai
+866-1;Ukmergė
+868-1;Vidiškiai
+1183-1;Želva
+1023-1;Žemieji Svirnai
+885-1;"Turgus"
+882-1;Antalgė
+954-1;Asmalai
+956-1;Aviniškis
+881-1;Ažugiriai
+890-1;Bajoriškiai
+1001-1;Bėdžiai
+957-1;Buitūnai
+901-1;Bulinskiai
+889-1;Daržiniai
+891-1;Daugailiai
+900-1;Deguliai
+892-1;Drąsėnai
+883-1;Jasonys
+887-1;Jotaučiai
+2496-1;Kaliekiai
+2444-1;Kaniūkai
+962-1;Kirdeikiai
+951-1;Kovynė
+955-1;Kuktiškės
+880-1;Leliūnai Utenos kr.
+899-1;Narkūnai
+950-1;Nemeikščiai
+2443-1;Norvaišai
+959-1;Pūčkoriškiai
+888-1;Radeikiai
+960-1;Saldutiškio sank.
+961-1;Saldutiškis
+1003-1;Šiaudiniai
+952-1;Šnieriškės
+953-1;Suoleliai
+2495-1;Šventupys
+958-1;Trimoniškis
+884-1;Utena
+2445-1;Užpaliai
+886-1;Vaikutėnai
+1002-1;Vyžuonos
+2446-1;Vyžuonos miestelis
+4643-1;Aladauka
+375-1;Apsingė
+4625-1;Ašašninkai
+365-1;Aušrinė
+224-1;Babriškės
+223-1;Babriškių kryžkelė
+681-1;Barčiai
+647-1;Beržupis
+4662-1;Butvydonys
+4663-1;Čebatoriai
+4664-1;Čebatorių m-kla
+679-1;Čepelūnų kryžkelė
+4641-1;Dainava
+4640-1;Dainava I
+4642-1;Dainavos km.
+297-1;Dargužiai
+4672-1;Dargužių miestelis
+690-1;Darželiai
+4647-1;Daržininkai
+4668-1;Daržininkų km.
+4669-1;Daržininkų kr.
+4633-1;Druckūnai
+644-1;Druckūnų kryžkelė
+4648-1;Drucminai
+3009-1;Dubaklonis
+4651-1;Dubičiai
+222-1;Geidukonys
+388-1;Gelovinė
+4657-1;Genionys
+4694-1;Genių kaimas
+4659-1;Ginakiemis
+4658-1;Ginakiemis I
+4600-1;Giniūnai
+648-1;Giraitė
+280-1;Glėbo ežeras
+226-1;Glūkas
+4612-1;Glūkas I
+367-1;Griova
+4622-1;Grybaulia
+638-1;Gudakiemis I
+637-1;Gudakiemis II
+636-1;Gudakiemis III
+4635-1;Gudžiai
+221-1;Gudžių kryžkelė
+387-1;Ilgininkai
+382-1;Ilgininkai II
+292-1;Jakėnai
+4693-1;Jakubiškių km.
+4646-1;Jasauskai
+371-1;Jonionys
+4670-1;Jurgiškės
+4624-1;Kabeliai
+374-1;Kačingė
+286-1;Kaibučiai
+4653-1;Kalviai
+4627-1;Kamorūnai
+4679-1;Kaniava
+4644-1;Kaniavėlė
+691-1;Kapiniškės
+4611-1;Kareivonys
+684-1;Karpiškės
+4621-1;Kašėtos
+4685-1;Katra
+4684-1;Katra I
+645-1;Kazimieravas
+372-1;Kibyšiai
+676-1;Kijučiai
+4628-1;Kijučių kapai
+4629-1;Kijutiškės
+4604-1;Kirklionys
+680-1;Kol.sodai "Tulpė"
+4683-1;Kriokšlys
+4630-1;Kriviliai
+4691-1;Krūkliai
+4678-1;Krūklių km.
+654-1;Krūminiai
+4690-1;Krūminių miestelis
+685-1;Kukliai
+4666-1;Kuršiai
+642-1;Laičiai
+288-1;Laparaistis
+4614-1;Lavysas
+366-1;Liškiava
+363-1;Liškiavos kryžkelė
+4688-1;Lynežeris
+687-1;Mančiagirė
+4650-1;Mantotai
+689-1;Marcinkonių gel.stotis
+688-1;Marcinkonys
+4617-1;Mardasavas
+692-1;Margionys
+225-1;Martinava
+389-1;Masališkės
+683-1;Maskauka
+649-1;Matuizos
+650-1;Matuizų plytinė
+4656-1;Melekonys
+686-1;Mergežeris
+290-1;Merkinė
+289-1;Merkinės kryžkelė
+4660-1;Meškučiai
+285-1;Milioniškės
+4602-1;Miškų ūkis
+4626-1;Musteika
+4665-1;Naniškės
+299-1;Naujieji Maceliai
+294-1;Naujieji Valkininkai
+641-1;Nedzingė
+390-1;Noruliai
+4676-1;Noškūnai
+4675-1;Noškūnų kr.
+4649-1;Paąžuolė
+4636-1;Padaugė
+658-1;Paklėštarė
+4674-1;Palkabalis
+4605-1;Pamusiai
+369-1;Panara
+4645-1;Panočiai
+4631-1;Papiškės
+652-1;Papiškės Varėnos r.
+4686-1;Paramėlis
+4671-1;Pasgrinda
+4615-1;Paūliai
+4941-1;Pavardonio sodai
+4601-1;Paversekys
+283-1;Perloja
+284-1;Perlojos kaimas
+639-1;Pilvingiai
+4637-1;Pilvingių kryžkelė
+298-1;Pirčiupiai
+656-1;Pošalčiai
+4689-1;Puodžiai
+4607-1;Puodžiai I
+287-1;Purpliai
+4618-1;Puvočiai
+4692-1;Radyščiaus km.
+373-1;Radyščius
+4655-1;Rakai
+4654-1;Ramanavas
+677-1;Riliškiai
+4620-1;Roduka
+4682-1;Rudnia
+646-1;Šačia
+282-1;Salovartė
+281-1;Salovartė sodai
+660-1;Sankryža link Eišiškių
+4606-1;Sarapiniškės
+227-1;Senoji Varėna
+4673-1;Senovė
+693-1;Sklėrių kryžkelė
+4623-1;Sklėrių pervaža
+4623-2;Sklėrių perveža
+682-1;Smalninkai
+295-1;Spengla
+4632-1;Strėžiūnai
+4652-1;Šulai
+4687-1;Šumas
+643-1;Tolkūnai
+4616-1;Trakiškiai
+4619-1;Trasninkai
+4639-1;Ulbinai
+653-1;Urkionys
+4661-1;Ūta
+391-1;Utieka
+4609-1;Užtilčiai
+640-1;Vadėnai
+4680-1;Valka
+659-1;Valkininkai
+657-1;Valkininkų fabrikas
+296-1;Valkininkų kryžkelė
+228-1;Varėna
+291-1;Vazgirdonys
+4608-1;Vergakiemis
+655-1;Verseka
+4603-1;Vet.ligoninė
+220-1;Vėžionys
+364-1;Vilkiautinis
+678-1;Vydeniai
+651-1;Voriškės
+368-1;Žeimiai Varėnos r.
+4610-1;Žilinai
+293-1;Žilinėliai
+4613-1;Žiūrai
+453-1;"Aukso ragas"
+466-1;"Mokykla"
+2373-1;"Sūduva"
+2333-1;"Sūrinio"ež.
+470-1;"Žemkalnija"
+476-1;Adamarina
+3896-1;Akmenskaldė
+2358-1;Alksnėnai
+455-1;Alvitas
+2339-1;Ančlaukys
+473-1;Antupiai
+2354-1;Arminai
+2390-1;Auksėnai
+6029-1;Bačkiškiai
+2389-1;Bajorai
+534-1;Balčiūnai
+6034-1;Balsupiai
+6030-1;Bardauskai
+2378-1;Baršausko tėviškė
+2393-1;Bartninkai
+2392-1;Bartninkų m-kla
+2326-1;Beržiniai
+3935-1;Biliūnai
+2386-1;Birutės g.
+2406-1;Būdežeriai
+6049-1;Dabravolė
+456-1;Dailučiai
+2376-1;Dapkiškiai
+458-1;Dariaus ir Girėno g. (Virbalis)
+6033-1;Degučiai
+2355-1;Didvyžiai
+6042-1;Dotamai
+3934-1;Drebulinė
+2368-1;Dugnai
+2324-1;Duonelaičiai
+2372-1;Dvarnieji
+2356-1;Galiakaušiai
+2391-1;Geisteriškiai
+445-1;Giedriai I
+444-1;Giedriai II
+463-1;Girėnai
+475-1;Gižų kryžkelė
+2325-1;Gražiškiai
+2384-1;Gudeliai (Vilkaviškio r.)
+2348-1;Gudkaimis
+3900-1;Gulbiniškiai
+2380-1;Gurbšilis
+6051-1;Ilgas kalnas
+2323-1;Jakiškiai
+2341-1;Jevonis
+2369-1;Juodupiai
+437-1;Juozapavas
+2362-1;Karaliai
+2322-1;Karalkrėslis
+6032-1;Karkliniai
+2343-1;Karklupėnai
+436-1;Kataučizna
+450-1;Katedra
+3893-1;Kaupiškiai
+446-1;Kelių valdyba
+6031-1;Keturvalakiai
+2345-1;Kybarčiukai
+460-1;Kybartai
+3937-1;Kybartai, "Norfa"
+4104-1;Kybartų PKP
+461-1;Kybeikiai
+3895-1;Kybeikių mokykla
+2318-1;Klampučiai
+2364-1;Klausučiai
+440-1;Klausučiai Vilkaviškio r.
+2329-1;Kregždžiai
+2399-1;Kuosėnai
+3894-1;Kurpikai
+2388-1;Lakštučiai
+2330-1;Lankupėnai
+2331-1;Lankupka
+3100-1;Ligoninė
+464-1;Liukiai
+3910-1;Maironio g.
+6028-1;Malūnas
+462-1;Matlaukys
+2359-1;Mažučiai
+3891-1;Meiliūnai
+468-1;Meteostotis
+438-1;Mierčiai
+2403-1;Mockabūdžiai
+2357-1;Našiškiai
+2377-1;Naujienėlė
+2361-1;Navininkai
+6055-1;Norvydai
+536-1;Opšrūtai II
+2365-1;Opšrūtų gyvenvietė
+535-1;Opšrūtų kryžkelė
+3901-1;Oželiai
+2404-1;Ožkabaliai
+6035-1;Ožkasviliai
+2367-1;Paežeriai
+537-1;Pagramdai
+6036-1;Paikiškiai
+2340-1;Pajevonys
+6052-1;Pakalniai
+3902-1;Pančekiai
+2402-1;Pašeimeniai
+2400-1;Patilčiai
+2336-1;Pavištyčio kr.
+6054-1;Pavištytis
+2398-1;Piliakalniai
+2394-1;Piliakalnių kr.
+533-1;Pilviškiai
+6048-1;Pilviškių aplinkelis
+539-1;Pilviškių g.
+2374-1;Pilviškių glž. stotis
+469-1;Policija
+447-1;Pramonės g.
+2405-1;Pūstapėdžiai
+2371-1;Ramoniškiai
+2397-1;Rasiai
+465-1;Rečiūnai
+2375-1;Rimavičiai
+2407-1;Rimgaudo g-vė
+474-1;Rūda
+6043-1;Rūkštėnai
+2351-1;Šapalai
+449-1;Savivaldybė
+2387-1;SB "Ratas"
+471-1;Serdokai
+2332-1;Skardupiai
+2396-1;Skroblai
+2350-1;Slabadai
+2360-1;Smilgiai
+2320-1;Sodėnai
+448-1;Stadionas
+2366-1;Steponai
+2381-1;Stirniškiai
+2319-1;Stolaukėlis
+2321-1;Stolaukis
+2337-1;Stovykla
+2353-1;Sūdavos m-kla
+3904-1;Šunskai
+3903-1;Šunskų kr.
+2383-1;Suvalkai (Vilkaviškio r.)
+2363-1;Teiberiai
+441-1;Teiberių kr.
+6041-1;Trilaukys
+452-1;Uosiai
+454-1;Uosiai II
+6040-1;Užbaliai
+2316-1;Vaičlaukio k.
+2317-1;Vaičlaukis
+2401-1;Vaisbūniškiai
+2342-1;Vaišviliai
+532-1;Vaitai
+2328-1;Vaitkabaliai
+2385-1;Varpininkai
+2347-1;Varpučiai
+2346-1;Varpučiai I
+2395-1;Vartai
+2338-1;Varteliai
+2344-1;Vilbargiris
+443-1;Vilkaviškio gel. st.
+442-1;Vilkaviškio gelž.stotis
+451-1;Vilkaviškis
+2382-1;Vilkiškiai
+2349-1;Vilkupiai
+457-1;Virbalis
+459-1;Virbalis II
+6050-1;Vištyčio I laukas
+2334-1;Vištyčio Laukas I
+2335-1;Vištyčio Laukas II
+467-1;Vištytis
+2327-1;Vygreliai
+2370-1;Vladiškiai
+439-1;Žalioji
+6053-1;Žirgėnai
+2352-1;Žyniai
+472-1;Znočkai
+538-1;Zomčinė
+5050-1;11 km
+5280-1;13-sis kilometras
+5283-1;16-sis kilometras
+5055-1;18 km
+5056-1;19 km
+5366-1;23 km.
+5251-1;32 km.
+5106-1;Airėnai
+5367-1;Airėnai I
+921-1;Akmena
+5063-1;Akmeniškės
+5574-1;Akmeniškės II
+5575-1;Akmeniškės III
+5296-1;Aladurdiškės
+5369-1;Aliejūnai
+5320-1;Ančeriškės
+5580-1;Antaviliai
+5318-1;Arklenai
+5359-1;Avižieniai II
+5358-1;Avižienių mokykla
+5078-1;Ąžuolijai
+5234-1;Baboniškės
+5376-1;Babrukiškės
+5240-1;Baltoji Vokė
+5054-1;Barkuškės
+5274-1;Barvoniškės
+5422-1;Basiukai
+5053-1;Bedugnė
+5592-1;Belkiškė
+5407-1;Bendorėliai
+5408-1;Bendoriai
+5301-1;Bygirdai
+5374-1;Brinkiškės I
+5375-1;Brinkiškės II
+5357-1;Bukiškės II
+5064-1;Čekėnai
+5584-1;Čubelė
+5243-1;Daržininkai
+5418-1;Daubarai
+5278-2;Didžaisalis 1
+5278-1;Didžiasalis 1
+5277-1;Didžiasalis 2
+5330-1;Didžioji Kuosinė
+1169-1;Družiliai
+5105-1;Dūkštos
+5405-1;Durpynas
+5247-2;Dusinėnai
+5329-1;Dvarai
+5073-1;Dvaras
+5257-1;Dvariškės 1
+5256-1;Dvariškės 2
+5031-1;Eglinė
+5421-1;Eglinė 2
+5370-1;Europa
+5032-1;Galiniai
+931-1;Gegliškės
+5419-1;Geisiškės
+923-1;Glitiškės
+307-1;Gojus
+5363-1;Grikieniai
+5092-1;Gudulinė
+5290-1;Gudžiai
+5304-1;Gulbinė
+305-1;Guopstos
+5300-1;Jociūnai
+5051-1;Juočikiai
+5091-1;Juodė
+5074-1;Juodoji Vokė
+5238-1;Juodšiliai
+5306-1;Juozapinė
+1168-1;Jusinė
+5252-1;Kalabariškės
+5310-1;Kalesninkai
+5327-1;Kalveliai
+5428-1;Katiliškės
+5245-1;Katiliškiai
+5297-1;Keipūnai
+5414-1;Kelių punktas
+5037-1;Kelmytė
+5326-1;Kena
+5272-1;Kenos geležinkelio st.
+5117-1;Keturiasdešimt Totorių
+5416-1;Kiemeliai
+5039-1;Kineliai
+5410-1;Kirzinė
+5258-1;Kyviškės
+5271-1;Kyviškių aerodromas
+5406-1;Klevinė
+5420-1;Kolūkis
+5582-1;Kreivalaužiai
+2502-1;Kryžiškės
+5287-1;Kryžkelis
+5325-1;Kuosinė
+5302-1;Laibiškės
+5505-1;Lavorišių muitinė
+5504-1;Lavoriškės
+5423-1;Lydos kelias
+924-1;Lygialaukis
+5316-1;Lukšinė
+5090-1;Maišiagala
+5415-1;Maišiagalos mokykla
+5334-1;Margiai
+5033-1;Marijampolis
+5411-1;Markiškės
+5409-1;Mažoji Riešė
+5262-1;Medelynas
+5275-1;Medininkai
+5292-1;Medininkai 1
+5293-1;Medininkai 2
+5294-1;Medininkai 3
+5545-1;Medininkų muitinė
+5075-1;Merešlėnai
+5502-1;Mickūnai
+5107-1;Miežionys
+5332-1;Miežniūnai
+5035-1;Migūnai
+5071-1;Mikašiūnai
+5241-1;Minsko pl.
+930-1;Miškadvaris
+5239-1;Miškiniai
+1173-1;Miškiniai (Vilniaus r.)
+5581-1;Miškonys
+5597-1;Modžiūnai
+5116-1;Molynės
+5288-1;Mūrininkai
+938-1;Naujasėdžiai
+934-1;Nemenčėlė
+1177-1;Nemenčinė
+1176-1;Nemenčinės girininkija
+5242-1;Nemėžis
+5331-1;Norvaišai
+926-1;Paberžė
+925-1;Paberžė II
+5295-1;Padvarionys
+5323-1;Padvarninkai
+2503-1;Pagiriai
+5273-1;Pagojis
+1172-1;Pailgė
+5047-1;Pakalniai
+5254-1;Pakenė
+1175-1;Pakrauglė
+2501-1;Papiškės
+5235-1;Parudaminys
+5322-1;Pasvirė
+5412-1;Pieno punktas
+5298-1;Pikčiūnai
+928-1;Pikeliškės
+927-1;Pikeliškių mokykla
+5360-1;Pikutiškės I
+5361-1;Pikutiškės II
+5362-1;Pikutiškės III
+5093-1;Pociūnai
+941-1;Pociūnai Vilniaus r.
+5259-1;Posūkis į Kyviškes
+5263-1;Posūkis į N.Vilnią
+5034-1;Posūkis į Parūdaminą
+5244-1;Posūkis į Rudaminą
+5265-1;Posūkis į Veliučonis
+935-1;Pranciškonys
+5246-1;Prūdiškės
+5103-1;Purviškės
+5365-1;Purviškės II
+5089-1;Putiniškės
+937-1;Radžiuliai
+5077-1;Raisteliai
+5052-1;Rakonys
+1174-1;Raudondvaris (Vilniaus r.)
+932-1;Raudondvaris Vilniaus r.
+933-1;Riešė
+5044-1;Rudamina I
+5046-1;Rudamina II
+5045-1;Rudaminos žiedas
+1171-1;Rudausiai
+5328-1;Rūdynė
+5284-1;Rukainiai 1
+5285-1;Rukainiai 2
+5314-1;Rukainiai 3
+5286-1;Rukainių girininkija
+1170-1;Rūžiškės
+5255-1;Sadūniškės
+5248-1;Salininkai
+5249-2;Salininkai g.p.
+5249-1;Salininkų g.p.
+5299-1;Šalkiškės
+920-1;Santaka
+1167-1;Sapiegiškės
+5260-1;Šatrininkai
+5413-1;Saugūniškės
+5289-1;Savičiūnai
+5072-1;SB "Vokė"
+5321-1;Senasalis
+5237-1;Šiaudinė
+5282-1;Sirokomlės muziejus
+5282-2;Sirokompės muziejus
+5311-1;Skarvadiškės
+5120-1;Skurbutėnai
+5036-1;Slabada
+5291-1;Slabadka
+5264-1;Slėnis
+922-1;Smaguriškės
+929-1;Stadališkės
+5253-1;Stauniškės
+5102-1;Sudervė
+5377-1;Sudervė II
+5250-1;Šumskas
+5333-1;Šumskas 1
+5065-1;Šveicarai I
+5066-1;Šveicarai II
+306-1;Šventininkai
+5307-1;Svyronys
+5118-1;Tarnėnai I
+5119-1;Tarnėnai II
+5233-1;Terešiškės
+5038-1;Totorinė
+5076-1;Totorių g.
+5417-1;Trečiokiškės
+5324-1;Tribilai
+5312-1;Tumosai
+5503-1;Uosininkai
+5372-1;Užuežerė
+5315-1;Užukenė
+5317-1;Užuprūdžiai
+5104-1;Vaigeliškės
+5070-1;Vaira
+5236-1;Valčiūnai
+5319-1;Valkarabiškės
+936-1;Varniškė
+5083-1;Vėjo g.
+5266-1;Veliučonys
+5368-1;Vievio sankryža
+4072-1;Vilnius (Fabijoniškės)
+5589-1;Vincentavas
+5276-1;Vindžiūnai
+940-1;Visalaukė
+5048-1;Žalioji I
+5049-1;Žalioji II
+5373-1;Žaluma
+5364-1;Žemaguliai
+939-1;Žemaitėliai
+5308-1;Žemaitėliai 1
+5309-1;Žemaitėliai 2
+5267-1;9 km.
+4807-1;Akropolis (Vilnius)
+5579-1;Antakalnis
+3811-1;Ateities st.
+5101-1;Avižieniai
+5005-1;Baldai
+9002-1;Batoro
+9000-1;Baziljonų
+6003-1;Belmontas
+5088-1;Bukiškės
+4797-1;Comfort hotel
+5080-1;Dilgynė
+518-1;Dubuklė
+5270-1;Dunojaus
+2413-1;Eigulių g.
+5081-1;Eišiškių plentas
+5087-1;Fabijoniškės (J.Baltrušaičio st.)
+4958-1;Forum Palace (Vilnius)
+5227-1;Galvės st.
+522-1;Gardino sankryža
+106-1;Gariūnai
+5007-1;Gariūnų st.
+5084-2;Gedimino pr.
+5371-1;Gedvydžių st.
+6004-1;Giruliai
+105-1;Grigiškės
+5009-1;Grigiškės 3
+5269-1;Guriai 1
+5268-1;Guriai 2
+5354-1;J. Baltrušaičio st.
+5011-1;Katilinė
+520-1;Kazbiejų g.
+5425-1;Kelininkų st.
+5012-1;Kilimų fabrikas
+5008-1;Kranto
+5041-1;Kuprijoniškės
+517-1;Lentvario kryžkelė
+5226-1;Lentvario st.
+5426-2;Liepkalnio st
+5426-1;Liepkalnio st.
+107-1;Ligoninė
+4873-1;Litexpo
+5427-1;Lokomotyvas
+521-1;Metalo konstukcijų gamykla
+3810-1;Molėtų plentas
+5010-1;Naujasis Lentvaris
+5082-1;Naujininkai
+6005-1;Naujoji Vilnia
+308-1;Pagiriai
+5355-1;Pavilionys
+5043-1;Pelesos g.
+5040-1;Posūkis į Salininkus
+5004-1;Riovonių
+5353-1;S. Lozoraičio st.
+5353-2;S.Lozoraičio st.
+5424-1;Šalčininkų kryptis
+5085-1;Saltoniškių
+5225-1;Sąvanorių pr.
+5003-1;Sąvanorių prospektas
+5086-1;Šeškinė
+5079-1;Sodai
+5001-1;Sparta
+5228-1;Stasylų st.
+5352-1;Statybininkų st.
+9001-1;Subačiaus
+519-1;Trakų Vokė
+5006-1;Vaduvos
+3853-1;Vilniaus oro uostas
+2412-1;Vilnius
+5002-1;Žemaitės
+5042-1;Žirnių g.
+1015-1;"Savivaldybė"
+1016-1;Visaginas
+893-1;Antalieptė
+2419-1;Antazavė
+1004-1;Baibiai
+1007-1;Bikėnai
+1006-1;Biržūnai
+2417-1;Čiaunas
+1005-1;Degučiai
+2420-1;Duburaitis
+897-1;Dusetos
+2427-1;Gipėnai
+2423-1;Imbradas
+2416-1;Jasai
+1020-1;Jureliškis
+2422-1;Kukliai
+1009-1;Luodžiai
+1018-1;Lupenka
+2421-1;Margavonės
+2424-1;Miliūnai
+895-1;Naršėnai
+896-1;Padustėlis
+1010-1;Paluodė
+2418-1;Rokėnai
+1017-1;Rutiniškis
+1008-1;Salakas
+894-1;Šilinė
+2426-1;Zaduoja
+1019-1;Zarasai
+2689-1;Dudelange PKP
+2690-1;Luxembourg
+4108-1;A5 apvedcelš (rix)
+2639-1;Ainazi PKP
+2640-1;Aižini muitinė
+2641-1;Bauska, autoosta
+2641-2;Bauska, Ratslaukums aut.pietura
+2642-1;Daugavpils
+2643-1;Elėja
+2644-1;Ezere PKP
+2645-1;Grenstale PKP
+4109-1;Iecava
+2646-1;Jelgava
+4107-1;Lazdas (rix)
+2647-1;Liepoja
+2648-1;Medumi PKP
+2649-1;Meitenė PKP
+2650-1;Meitinės
+2652-1;Nica
+2653-1;Paurupe
+2651-1;Plavinas
+2654-1;Rezekne
+6700-1;Rezeknė (GS "Rezeknė 2")
+2655-1;Riga (bus station)
+2656-1;Riga Airport
+2657-1;Riga Ferry Port
+2658-1;Rucava
+2659-1;Rucava, PKP
+2660-1;Saldus
+2661-1;Skrunda
+2662-1;Uolainė
+4991-1;Ventspilis
+3924-1;Amsterdam Rietlandpark (Piet Heinkade)
+3936-1;Amsterdam Sloterdijk
+2691-1;Amsterdam, Amstel st.
+2692-1;Arnhem
+2693-1;Breda
+2694-1;Heerlen, Centralstation
+2695-1;Maastricht, Central St., Bus Station Halte K
+2696-1;Rotterdam
+2697-1;Utrecht
+7505-2;Augustow, 29.Listopada, dom Nauczyciela
+7505-1;Augustow, 29.Listopada, hotel Logos
+2663-1;Augustow, Dw. PKS
+7504-1;Augustow, Wojska Polskiego 53
+2664-1;Bialystok, Bus station PKS
+7923-1;Bialystok, dw.autobusowy, Bohaterow Monte Casino 8
+2665-1;Budzisko PKP
+2666-1;Cieszyn PKP
+6016-1;Częstochowa, dw.autobusowy
+2667-1;Częstochowa, parking McDonald's (Tesco side)
+3922-1;Elbląg, dw.autobusowy
+3923-1;Gdansk, dw.autobusowy
+3919-1;Gizycko, dw.aut.,plac Dworcowy
+2668-1;Grajewo, ul.Mickiewicza, Gimnazium Nr. 2
+2532-1;Grebalai
+2669-1;Jedrzychowice PKP
+7503-1;Jelgava, train station
+2670-1;Katowice
+3920-1;Kętrzyn, dw.aut.,ul.Dworcowa 1
+6014-1;Kielce, przystanek Żytnia (McDonald's)
+2672-1;Konin
+2673-1;Krakow, dw.aut.MDA, ul. Bosacka 18
+2674-1;Kudowa Zdroj PKP
+2675-1;Lodz, Dw. PKS Kaliska
+6705-1;Lodz, Fabryczna
+2802-1;Lodz, pl.Niepodleglosci
+7502-1;Lomza, dw.autobusowy
+2676-1;Lomza, pl. Niepodleglosci (stary dw.)
+3917-1;Lublin, Dw.PKS
+5000-1;Mragovo
+2677-1;Ogrodniki PKP
+3921-1;Olsztyn, dw.autobusowy
+2678-1;Ostrow Maz.
+9995-1;Peremyšlis
+2679-1;Poznan, ZCK Nowy Dw.PKS , ul.Matyi
+6013-1;Radom, dw.autobusowy
+2680-1;Sejny
+3856-1;Suwalki, dw.PKS
+7500-1;Suwalki, MOP INEES, ul.Mickiewicza
+2681-1;Suwalki, przed Dw. PKS
+2682-1;Swiecko
+2683-1;Swiecko PKP
+6010-1;Terespol (BY/PL)
+7501-1;Warszawa Metro Marymont 14
+2687-1;Warszawa, Dw. Aut. Zachodnia
+2684-1;Warszawa, Dw. Centralny, Jana Pawla al.
+2685-1;Warszawa, Dw. Wilenski
+2686-1;Warszawa, International Airport (F. Chopin)
+6704-1;Warszawa, metro Mlociny
+7915-1;Warszawa, metro Wilanowska
+2688-1;Wroclaw ,  Dw.PKS
+6706-1;Wroclaw, tymczasowy dw.aut.
+9994-1;Žešuvas
+2705-1;Arad, Autogara Transdara
+2706-1;Battonya (RO), PKP
+2707-1;Brasov, autogara Bartolomeo
+2708-1;Bucuresti, autogara Rahova
+2709-1;Deva, autogara Plus Com
+2710-1;Fagaras, Bd.Unirii 13
+2711-1;Lugoj, autogara Atlassib
+2712-1;Ploiesti, autogara Ploiesti Sud
+2713-1;Sebes, autogara Voltrans
+2714-1;Sibiu, autogara Turnisor
+2715-1;Timisoara, Autogara Atlassib
+2716-1;Biologinė stotis
+2717-1;Bolšakovas
+2718-1;Černiachovskas
+2720-1;Černiševskio muitinė
+4105-1;Černyševskoje PKP
+2721-1;Chrabrovo pos.
+3794-2;Diuny
+2723-1;Gusevas
+2724-1;Gvardeiskas
+9996-1;Ivangorod
+2725-1;Ivanovo
+2726-1;Yarcevo
+5501-1;Kaliningrad, Maskvos pr. 184
+2728-1;Kaliningrad, Zheleznodorozhnaya 7
+2743-5;Kuršskaja kosa PKP
+2729-1;Lesnoje
+6001-1;Maskva (Rizskij)
+6703-1;Maskva AS (Tušinskaja)
+2730-1;Morskoje
+2731-1;Moskwa, Schelkovo
+2732-1;Muromskoje
+2733-1;Nesterovas
+2734-1;Orlovka
+2736-1;Rybačij
+6006-1;Sankt Peterburg,avtovokzal,Obvodnogo kanala 36
+2737-1;Smolensk
+2738-1;Sovetskas
+2739-1;Sovetsko muitinė
+2740-1;Suzdal
+2741-1;Vladimir
+2742-1;Zelenogradsk
+2743-1;Zelenogradsko PKP
+6011-1;Bratislava Bus Station, Mlynskie Nivy
+2746-1;Bratislava, Novy Most
+2744-1;Gradina PKP (SRB)
+2745-1;Horgoš PKP (SRB)
+2635-1;Canterbury
+2637-1;Dover PKP
+2636-1;Dover, Eurolines check-in/Travel Center
+2638-1;London, Victoria coach station
+99999-1;Černigovas AS, pr. Peremogi 3
+7924-1;Černovcai
+7916-1;Chersonas
+7920-1;Chmielnickij, AS-1
+2826-1;Drobyčas
+9989-1;Dubno, AS, vul.Zabrama 26
+9993-1;Ivano Frankivsk, Pasichna St.2
+3624-1;Ivano Frankovskas
+2826-5;Kalush
+5229-1;Kiev (Central bus station), pl. Demiivska
+5913-41;Kijevas, (bus station) ul.Nauki 1
+5913-51;Kijevas, (Vydubichi bus station)
+6017-1;Kijevas, Simona Petliuri
+2826-6;Kolomyja
+9992-1;Kovel, AS, vul.L.Ukrainki 42
+9991-1;Lutsk, AS, Koniakina 39
+3918-1;Lviv, avtovokzal. ul.Stryjskaja
+7922-1;Lviv, Dvirceva 1
+2826-4;Morshyn
+7917-1;Nikolajevas
+5230-1;Novyje Jariloviči (Ukraina)
+7913-43;Odesa (bus station), a. Starosina 1 B
+7918-1;Odesa, AS Kolontaivska 58
+6009-1;Odessa
+9997-1;Rivnė AS, g. Kijivska 40
+2826-3;Stryjis
+7921-1;Ternopilis, AS-1, vul.A.Žyvova 7
+6008-1;Truskavets
+6913-42;Umanė AS, Kijivska g.
+7919-1;Vinnica, AS "Centralna"
+9998-1;Žytomyras AS, g. Kijivska 93

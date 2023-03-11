@@ -28,7 +28,7 @@ namespace LietuvosTransportas.Code
             {
                 var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(1));
                 var collection = wait.Until(drv => drv.FindElement(By.CssSelector(cssSelector)));
-                var retunvalue = collection.GetAttribute("innerHTML");
+                var retunvalue = collection.GetAttribute("outerHTML");
                 driver.Quit();
                 return retunvalue;
             }
@@ -69,6 +69,34 @@ namespace LietuvosTransportas.Code
                         ffixed += ';' + string.Join(";", new string[] { collums[8], collums[10], collums[13] });
                 }
                 
+                writer.Write(ffixed);
+            }
+        }
+
+        public static void ScrapeStops(string url, string ouptputPath)
+        {
+            var resultStops = string.Empty;
+            var client = new HttpClient();
+            using (HttpResponseMessage response = client.GetAsync(url).Result)
+            {
+                using (HttpContent content = response.Content)
+                {
+                    resultStops = content.ReadAsStringAsync().Result;
+                }
+            }
+
+            string ffixed = string.Empty;
+            using (StreamWriter writer = new StreamWriter(ouptputPath, false))
+            using (StringReader reader = new StringReader(resultStops))
+            {
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    string[] collums = line.Split(';');
+                    if (collums.Length >= 5)
+                        ffixed += Environment.NewLine + string.Join(";", new string[] { collums[0], collums[4]});
+                }
+
                 writer.Write(ffixed);
             }
         }

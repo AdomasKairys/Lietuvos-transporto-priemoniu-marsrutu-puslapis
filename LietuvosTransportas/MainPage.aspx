@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link rel="stylesheet" type="text/css" href="../CSS/StyleMain.css" runat="server" />
+    <link rel="stylesheet" type="text/css" href="../CSS/MainStyle.css" runat="server" />
     <title></title>
 </head>
 <body>
@@ -12,7 +12,7 @@
         <div class="app-container">
              <div class="header-wrapper">
                 <div class="header">
-                    <img class="img" src="/Logo.jpg" alt="Logo">
+                    <img class="img" src="/Logo.jpg" alt="Logo" />
                     <div class="header-buttons">
                         <asp:Button CssClass="help-button" ID="help" runat="server" Text="Pagalba"/>
                         <asp:Button CssClass="help-button" ID="info" runat="server" Text="Informacija" Style="margin-left:20px"/>

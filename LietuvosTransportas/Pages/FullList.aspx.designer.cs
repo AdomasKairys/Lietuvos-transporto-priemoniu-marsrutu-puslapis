@@ -51,21 +51,30 @@ namespace LietuvosTransportas
         protected global::System.Web.UI.WebControls.Button BtnShowLongDistance;
 
         /// <summary>
-        /// SearchBox control.
+        /// SearchBox1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::AjaxControlToolkit.ComboBox SearchBox;
+        protected global::AjaxControlToolkit.ComboBox SearchBox1;
 
         /// <summary>
-        /// PageEmbed control.
+        /// SearchBox2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlIframe PageEmbed;
+        protected global::AjaxControlToolkit.ComboBox SearchBox2;
+
+        /// <summary>
+        /// BtnSubmit control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button BtnSubmit;
     }
 }

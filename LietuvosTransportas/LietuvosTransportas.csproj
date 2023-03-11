@@ -173,8 +173,9 @@
     <Content Include="App_Data\routes.txt" />
     <Content Include="App_Data\Route_Times\route_name.txt" />
     <Content Include="App_Data\Route_Times\times.txt" />
-    <Content Include="CSS\StylePages.css" />
-    <Content Include="CSS\StyleMain.css" />
+    <Content Include="App_Data\stops.txt" />
+    <Content Include="CSS\PageStyle.css" />
+    <Content Include="CSS\MainStyle.css" />
     <Content Include="MainPage.aspx" />
     <Content Include="Pages\FullList.aspx" />
     <Content Include="Pages\Map.aspx" />
