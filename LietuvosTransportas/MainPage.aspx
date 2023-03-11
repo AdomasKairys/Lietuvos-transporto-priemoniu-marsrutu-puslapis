@@ -9,16 +9,29 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div class="main">
-            <div class="main-button">
-                <asp:Button CssClass="button" ID="BtnShowFull" runat="server" Text="Visi marsrutai" OnClick="BtnShowFull_Click"/>
-                <asp:Button CssClass="button" ID="BtnSearch1" runat="server" Text="Masrutu paieska" OnClick="BtnSearch1_Click" Style="margin-left:50px"/>
-            </div>
-            <br />
-            <div class="main-button">
-                <asp:Button CssClass="button" ID="BtnSearch2" runat="server" Text="Keliones paieska" OnClick="BtnSearch2_Click"/>
-                <asp:Button CssClass="button" ID="BtnMap" runat="server" Text="Zemelapis" OnClick="BtnMap_Click" Style="margin-left:50px"/>
-            </div>
+        <div class="app-container">
+             <div class="header-wrapper">
+                <div class="header">
+                    <img class="img" src="/Logo.jpg" alt="Logo">
+                    <div class="header-buttons">
+                        <asp:Button CssClass="help-button" ID="help" runat="server" Text="Pagalba"/>
+                        <asp:Button CssClass="help-button" ID="info" runat="server" Text="Informacija" Style="margin-left:20px"/>
+                    </div>
+                 </div>
+             </div>
+
+            <div class="app">
+                <div class="app-inner">
+                    <div class="main-button">
+                        <asp:Button CssClass="button1" ID="BtnShowFull" runat="server" Text="Visi maršrutai" OnClick="BtnShowFull_Click"/>
+                        <asp:Button CssClass="button2" ID="BtnSearch1" runat="server" Text="Maršrutų paieška" OnClick="BtnSearch1_Click"/>
+                    </div>
+                    <div class="main-button">
+                        <asp:Button CssClass="button3" ID="BtnSearch2" runat="server" Text="Kelionės paieška" OnClick="BtnSearch2_Click"/>
+                        <asp:Button CssClass="button4" ID="BtnMap" runat="server" Text="Žemėlapis" OnClick="BtnMap_Click"/>
+                    </div>
+                </div>
+             </div>
         </div>
     </form>
 </body>
